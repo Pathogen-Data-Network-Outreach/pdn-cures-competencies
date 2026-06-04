@@ -47,7 +47,7 @@ Examples of professionals related to this track: policy-makers, epidemiologists,
 #### Florence N. Smith - Public Health Professional
 
 <div style="text-align:center;">
-  <img src="/img/florence.jpg" alt="Florence" style="max-width:150px;">
+  <img src="img/florence.jpg" alt="Florence" style="max-width:150px;">
 </div>
 
 **Qualification and background**
