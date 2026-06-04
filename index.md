@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="{{ '/img/logo.png' | relative_url }}" alt="Pathogen Data Network" style="width:100%; max-width:600px;">
+</p>
+
 *Course-Based Undergraduate Research Experiences with Pathogen Data*
 
 
