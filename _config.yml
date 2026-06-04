@@ -1,1 +1,5 @@
-remote_theme: "jekyll/minima@1e8a445"
+remote_theme: pages-themes/minimal@v0.2.0
+title: PDN CURES — Draft Workforce Competencies v0.1
+description: A public site to comment on the skills needed for the infectious disease workforce
+show_downloads: false
+logo: /img/logo.png
