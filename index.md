@@ -5,7 +5,20 @@
 *Course-Based Undergraduate Research Experiences with Pathogen Data*
 
 
-# About the workshop
+# The Goal
+
+Advances in genomics, bioinformatics, artificial intelligence, and data-intensive approaches are transforming how we study pathogens, monitor infectious diseases, develop diagnostics, support clinical decision-making, and respond to public health challenges. At the same time, the infectious disease workforce is highly diverse, spanning clinical care, public health, surveillance, biotechnology, pharmaceutical development, laboratory science, data science, and research. As technologies evolve, educators face an important question: **What knowledge, skills, and abilities should learners develop to prepare them for success in these rapidly changing fields?**
+
+The goal of this project is to develop a community-informed framework of workforce competencies that describes the capabilities needed for competent practice in pathogen-related careers. These competencies are not intended to represent the requirements of a single course or degree program. Rather, they provide a shared language that educators, trainers, employers, researchers, and workforce development organizations can use to discuss learning goals, identify gaps, align curricula, and guide the design of educational experiences.
+
+Because the infectious disease workforce encompasses many different career pathways, we have also developed a set of **personas** that represent broad categories of professionals. These personas help identify where a competency may be most relevant without implying that every competency is equally important for every role. The personas are intended to support curriculum planning, workforce alignment, and discussion among stakeholders while recognizing that many professionals work across traditional boundaries and may require competencies associated with multiple personas.
+
+In parallel with the competency framework, this project is developing a series of modular **Course-based Undergraduate Research Experience (CURE)** curriculum outlines. These modules are designed to provide flexible pathways for integrating pathogen data, genomics, bioinformatics, artificial intelligence, ethics, and workforce preparation into undergraduate education. Each module will identify the competencies it supports and provide guidance for how educators can incorporate authentic research experiences into their courses. Draft CURE modules will be published in the near future and are intended to serve as practical examples of how the competency framework can be translated into educational practice.
+
+This site presents the current draft competencies and associated personas for community review. We invite educators, researchers, clinicians, public health professionals, industry partners, workforce development leaders, and other stakeholders to provide feedback to help ensure these competencies accurately reflect the needs of the evolving infectious disease workforce.
+
+## About the workshop
+
 The PDN CUREs Workshop was held March 23–25, 2026, at Cold Spring Harbor Laboratory in New York, USA, to support the development of curriculum resources and competencies for the education and training of the infectious-disease workforce. The workshop was developed in response to growing demand for educational materials that prepare students for careers involving infectious disease research, public health, laboratory science, bioinformatics, and related fields.
 The workshop was announced internationally and attracted more than 100 applicants. A competitive cohort of educators, researchers, bioinformaticians, public health specialists, and industry representatives was selected to participate. Attendees represented a broad range of expertise, including microbiology, genomics, One Health, bioinformatics, undergraduate education, workforce training, and laboratory operations.
 
