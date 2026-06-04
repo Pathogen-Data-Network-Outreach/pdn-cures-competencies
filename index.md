@@ -34,6 +34,13 @@ Career-spanning learning and workforce readiness
 
 ### Draft Competencies
 
+<iframe
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZhqQHS7-tPcvQqtTkTi9wd3-GsQsBjUr4y-V5y2H05rNrC8_fmR0FPW8qQ4txwNBtohsoq64TbaVT/pubhtml?gid=92281840&single=true&widget=true&headers=false"
+  width="100%"
+  height="1600"
+  style="border:none;">
+</iframe>
+
 <table>
   <thead>
     <tr>
