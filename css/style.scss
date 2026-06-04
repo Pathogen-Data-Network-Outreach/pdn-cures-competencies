@@ -3,10 +3,7 @@
 
 @import "jekyll-theme-minimal";
 
----
----
 
-@import "{{ site.theme }}";
 
 .wrapper {
   width: min(1200px, calc(100% - 40px));
