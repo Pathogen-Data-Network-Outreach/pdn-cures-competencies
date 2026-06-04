@@ -68,3 +68,127 @@ Florence's academic path began with an interest in community health and disease 
 - Contributing to data-informed policy discussions
 
 Florence’s work within the Ministry of Health supports the integration of pathogen genomics into routine surveillance. Her work focuses on translating complex datasets into actionable insights that inform public health responses and preparedness strategies.
+
+
+#### Paul E. Johnson - Clinical Scientist
+
+<div style="text-align:center;">
+  <img src="img/paul.jpg" alt="Paul" style="max-width:150px;">
+</div>
+
+**Qualification and background**
+
+-	BSc in Biomedical Science
+-	Clinical training programme in laboratory medicine
+-	Hospital diagnostic laboratory placement
+
+Paul’s training began with a strong foundation in laboratory sciences and human health. During his studies, he developed practical skills in microbiology, molecular biology, and diagnostic techniques. Exposure to clinical settings introduced him to pathogen detection and patient-centered applications of laboratory work. Increasingly, he gained experience with sequencing technologies and genomic data interpretation as part of cutting-edge diagnostics methods.
+
+**Activities of current role**
+
+-	Processing clinical samples for pathogen detection and sequencing
+-	Performing and validating molecular diagnostic assays
+-	Interpreting genomic data in a clinical context
+-	Ensuring laboratory quality control and compliance
+-	Communicating results to clinicians and healthcare teams
+-	Supporting infection control and surveillance efforts
+
+Paul’s work in hospital laboratories contributes to the accurate and timely diagnosis of infectious diseases. His role connects laboratory data with patient care, with growing involvement in integrating genomics into routine diagnostics.
+
+
+### Research Track (Basic Research Scientist / Applied Research Scientist)
+
+This track is aimed at students interested in advancing pathogen genomics through research and innovation. It combines foundational biological inquiry with practical, data-driven approaches, spanning both basic and applied science. It focuses on engaging with questions about pathogen biology, evolution, and function, while also developing computational and analytical skills to work with genomic data. The track encourages students to explore how research discoveries can be translated into tools, methods, and knowledge that strengthen our understanding and management of infectious diseases.
+
+#### Gregor M. Williams - Basic Research Scientist
+
+<div style="text-align:center;">
+  <img src="img/gregor.png" alt="Gregor" style="max-width:150px;">
+</div>
+
+**Qualification and background**
+
+-	BSc in Genetics
+-	PhD in Microbial Genetics
+-	Undergraduate research project in pathogen drug resistance
+
+Gregor’s academic journey was driven by curiosity about how pathogens function and evolve. During undergraduate training, he gained experience in laboratory experimentation and theoretical concepts such as gene regulation, mutation, and host–pathogen interactions. Research projects deepen his interest in understanding mechanisms at the molecular level, often leading to further research training.
+
+**Activities of current role**
+
+-	Designing and conducting experiments on pathogen systems
+-	Analysing genomic and molecular datasets
+-	Performing genome annotation and comparative analyses
+-	Investigating mutations and their functional impact
+-	Collaborating with interdisciplinary research teams
+
+Gregor’s work in academic and research institute settings focuses on fundamental questions in pathogen biology. His work contributes to the broader scientific understanding that underpins advances in diagnostics, therapeutics, and surveillance.
+
+
+#### Rosalind F. Brown - Applied Research Scientist
+
+<div style="text-align:center;">
+  <img src="img/rosalind.png" alt="Rosalind" style="max-width:150px;">
+</div>
+
+**Qualification and background**
+
+-	BSc in Computational Biology
+-	MSc in Genomics
+-	Undergraduate experience in coding (e.g., Python/R) and data analysis
+
+Rosalind’s background is interdisciplinary, combining an interest in biology with computational problem-solving. During her studies, she developed skills in programming, statistics, and data analysis, often applied to biological questions. Exposure to genomics datasets and sequencing technologies led her to focus on developing tools and workflows for analyzing pathogen data.
+
+**Activities of current role**
+
+-	Developing and running bioinformatics pipelines
+-	Performing genome assembly, annotation, and quality control
+-	Managing datasets using FAIR principles
+-	Creating reproducible workflows and documentation
+-	Collaborating with laboratory and public health teams
+-	Supporting tool development and data integration
+
+Rosalind works at the interface of biology and data science, translating complex genomic data into usable outputs. Her role is central to making pathogen genomics scalable, reproducible, and accessible across different research and public health contexts.
+
+
+### Industry Track (Pathogen Data Scientist)
+
+This track is designed for students interested in applying pathogen genomics in industry settings. It brings together perspectives from public health and clinical science, focusing on how genomics and real world data can inform disease surveillance, diagnostics, and patient care. It focuses on exploring how pathogen data in industrial settings leads to real-world decision-making, developing skills to interpret and communicate findings in ways that support diagnostic test development, outbreak response, healthcare systems, and community health outcomes.
+
+Examples of professionals related to this track: Genomics and pathogen data scientists with varied backgrounds actively involved in analyzing real world data for pathogen surveillance, develop diagnostic tools to detect novel pathogens and outbreaks.
+
+#### Ravi  K. Sambasivan - Basic Research Scientist
+
+<div style="text-align:center;">
+  <img src="img/ravi.png" alt="Ravi" style="max-width:150px;">
+</div>
+
+**Qualification and background**
+
+-	BSc in physical, biological or chemical sciences with exposure to data analysis
+-	PhD in quantitative science, genomics, microbiome or data sciences
+-	Undergraduate research project in pathogen drug resistance
+
+**Activities of current role**
+
+-	Under development
+
+Ravi was inspired by the bugs around him and the role that they play in human health and diseases. His academic journey was in basic sciences with exposure to the role of viruses, bacteria and other pathogens with their role in human life. His experience in the undergrad research project on data analysis and subsequent PhD in genomics prepared to delve into the basic science of pathogens and their role in disease outbreak detection, surveillance and how it can lead to diagnostic and clinical interventions.
+
+
+#### Maulana A. Karim - Applied Research Scientist
+
+<div style="text-align:center;">
+  <img src="img/maulana.png" alt="Maulana" style="max-width:150px;">
+</div>
+
+**Qualification and background**
+
+-	BSc in data analysis and genomics
+-	PhD in data sciences and genomics
+-	Undergraduate research project in data analysis
+
+Activities of current role
+-	Under development
+
+Maulana witnessed how COVID19 was tackled world-wide with the public and private healthcare sector come together to develop rapid diagnostic tests and surveillance of SARS-CoV-2 virus, the causative agent of the pandemic.  His basic training in data sciences and genomics with inroads to bacterial and viral sequence and data analysis led him to a role in industry. In industry he works with a team of wet and dry lab scientists to help develop novel methods of analyzing the huge of amount of pathogen data produced in-house and in public repositories. 
