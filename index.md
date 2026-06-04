@@ -1,5 +1,5 @@
 # Pathogen Data CUREs—Curriculum Development Workshop
-*Course-Based Undergraduate Research Experiences with Pathogen Data**
+*Course-Based Undergraduate Research Experiences with Pathogen Data*
 
 
 ## About the workshop
@@ -36,3 +36,35 @@ Career-spanning learning and workforce readiness
 ## Career track personas
 
 The group also discussed the importance of developing personas that reflect common career pathways, such as laboratory technicians, bioinformatics analysts, public health staff, clinical laboratory personnel, undergraduate researchers, and biotechnology employees. These personas will help ensure that competencies are relevant to real-world workforce roles.
+
+
+### Healthcare Track (Public Health Professional / Clinical Scientist)
+
+This track is designed for students interested in applying pathogen genomics in healthcare and public health settings. It brings together perspectives from public health and clinical science, focusing on how genomic data can inform disease surveillance, diagnostics, and patient care. It focuses on exploring how pathogen data moves from laboratory generation to real-world decision-making, developing skills to interpret and communicate findings in ways that support outbreak response, healthcare systems, and community health outcomes.
+
+Examples of professionals related to this track: policy-makers, epidemiologists, data modeling analysts, physicians, nurses, allied health professionals, clinical scientists, laboratory scientists, among others.
+
+#### Florence N. Smith - Public Health Professional
+
+<div style="text-align:center;">
+  <img src="/img/florence.jpg" alt="Florence" style="max-width:150px;">
+</div>
+
+**Qualification and background**
+
+- BSc in Nursing
+- MSc in Global Health
+- Field internship at the Ministry of Health
+
+Florence's academic path began with an interest in community health and disease prevention. During her undergraduate studies, she developed skills in epidemiology and biostatistics, alongside a growing awareness of infectious disease dynamics. Exposure to outbreak investigations and surveillance programs sparked an interest in integrating genomic data into public health decision-making. Her training increasingly combined traditional epidemiology with data analysis and interpretation of pathogen genomics.
+
+**Activities of current role**
+
+- Monitoring infectious disease trends through surveillance systems
+- Analysing epidemiological and genomic datasets
+- Supporting outbreak investigation and response activities
+- Preparing reports and data summaries for public health stakeholders
+- Collaborating with laboratories and research institutions
+- Contributing to data-informed policy discussions
+
+Florence’s work within the Ministry of Health supports the integration of pathogen genomics into routine surveillance. Her work focuses on translating complex datasets into actionable insights that inform public health responses and preparedness strategies.
