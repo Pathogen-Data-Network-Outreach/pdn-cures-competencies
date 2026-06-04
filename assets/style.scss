@@ -4,44 +4,27 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  width: min(1200px, calc(100% - 40px));
-  max-width: 1200px;
+  width: min(1400px, calc(100% - 24px));
+}
+
+header {
+  width: 200px;
 }
 
 section {
-  width: calc(100% - 280px);
-  max-width: 900px;
+  width: calc(100% - 230px);
 }
 
 @media print, screen and (max-width: 960px) {
   .wrapper {
     width: auto;
-    margin: 0 20px;
+    margin: 0 16px;
   }
 
+  header,
   section {
+    float: none;
+    position: static;
     width: auto;
-    max-width: none;
   }
 }
-
-@import "{{ site.theme }}";
-
-/* Reduce sidebar width */
-header {
-  width: 220px;
-}
-
-/* Move content closer to sidebar */
-section {
-  width: calc(100% - 250px);
-  margin-left: 20px;
-}
-
-/* Optional: make page slightly wider */
-.wrapper {
-  width: min(1400px, calc(100% - 40px));
-}
-
-/* Mobile */
-@media print, screen and (max-width: 960px) {
