@@ -3,22 +3,36 @@
 
 @import "{{ site.theme }}";
 
+/* Use nearly the full browser width */
 .wrapper {
-  width: min(1400px, calc(100% - 24px));
+  width: calc(100% - 20px);
+  max-width: none;
+  margin: 0 10px;
 }
 
+/* Make the left sidebar narrower */
 header {
-  width: 200px;
+  width: 170px;
 }
 
+/* Make main index.md content as wide as possible */
 section {
-  width: calc(100% - 230px);
+  width: calc(100% - 190px);
+  max-width: none;
+  margin-left: 20px;
 }
 
+/* Make embedded Google Sheet fill available content area */
+iframe {
+  width: 100%;
+  max-width: none;
+}
+
+/* Responsive layout for smaller screens */
 @media print, screen and (max-width: 960px) {
   .wrapper {
     width: auto;
-    margin: 0 16px;
+    margin: 0 12px;
   }
 
   header,
@@ -26,5 +40,6 @@ section {
     float: none;
     position: static;
     width: auto;
+    margin-left: 0;
   }
 }
