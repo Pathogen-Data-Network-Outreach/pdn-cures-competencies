@@ -24,3 +24,24 @@ section {
     max-width: none;
   }
 }
+
+@import "{{ site.theme }}";
+
+/* Reduce sidebar width */
+header {
+  width: 220px;
+}
+
+/* Move content closer to sidebar */
+section {
+  width: calc(100% - 250px);
+  margin-left: 20px;
+}
+
+/* Optional: make page slightly wider */
+.wrapper {
+  width: min(1400px, calc(100% - 40px));
+}
+
+/* Mobile */
+@media print, screen and (max-width: 960px) {
