@@ -4,4 +4,4 @@ description: A public site to comment on the skills needed for the infectious di
 show_downloads: false
 logo: /img/logo.png
 include:
-  - assets/css/style.css
+  - assets/css/style.scss
