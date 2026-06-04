@@ -37,6 +37,34 @@ Career-spanning learning and workforce readiness
 
 ### Draft Competencies
 
+This chart has the following features:
+
+- **Category**: This is the major grouping for a set of competencies and the defining characteristics shared by competencies within that group. For example, *Core Collaborative* includes the core (sometimes called "soft") skills needed for effective collaboration and teamwork.
+- **#**: Our numbering of the competency.
+- **Heading**: A short title that captures the essence of the competency.
+- **Competency**: A set of knowledge, skills, and abilities that represent what a competent practitioner should be able to do. While no single course, undergraduate or otherwise, may be sufficient to achieve competency, the overall curriculum or course of training should aim to enable a learner to achieve the stated competency.
+- **CURE matching module**: These are the designations of modular curriculum outlines that this group is developing and that address the indicated competency.
+- **CURE persona matching**: This is the persona or personas for which the listed competency will typically be most relevant.
+
+#### Feedback
+
+Please consider providing feedback via a short survey. We'd like your opinion on how these align to career roles or suggestions for wording improvements.
+
+<p style="text-align:center;">
+  <a href="https://www.surveymonkey.com/r/RKBFQ39"
+     target="_blank"
+     style="
+       display:inline-block;
+       padding:14px 28px;
+       background:#005ea2;
+       color:white;
+       text-decoration:none;
+       border-radius:6px;
+       font-weight:bold;">
+    Provide Feedback on These Competencies
+  </a>
+</p>
+
 <iframe
   src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZhqQHS7-tPcvQqtTkTi9wd3-GsQsBjUr4y-V5y2H05rNrC8_fmR0FPW8qQ4txwNBtohsoq64TbaVT/pubhtml?gid=92281840&single=true&widget=true&headers=false"
   width="100%"
