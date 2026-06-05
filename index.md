@@ -245,3 +245,24 @@ Activities of current role
 -	Under development
 
 Maulana witnessed how COVID19 was tackled world-wide with the public and private healthcare sector come together to develop rapid diagnostic tests and surveillance of SARS-CoV-2 virus, the causative agent of the pandemic.  His basic training in data sciences and genomics with inroads to bacterial and viral sequence and data analysis led him to a role in industry. In industry he works with a team of wet and dry lab scientists to help develop novel methods of analyzing the huge of amount of pathogen data produced in-house and in public repositories.
+
+
+### Authors, Affiliations, and Reuse
+
+During the comment period, this material is open but not officially licensed for reuse. For questions or to collaborate please contract [Jason Williams](mailto:williams@cshl.edu).
+
+- Anna Maria Niewiadomska, Oxford Nanopore Technologies
+- Athina	Gavriilidou, University of Lausanne
+- Martha Carolina, Mehaffy	Colorado State University
+- Carlos	Goller, North Carolina State University
+- Joseph	Larkin, University of Florida
+- Jamal	Sheriff, University of Illinois Chicago, and Bacterial and Viral Bioinformatic Resource Center
+- Liã Bárbara	Arruda, Wellcome Sanger Institute
+- Lakshmanan	Iyer, LabCorp
+- Michaela	Gazdik Stofer,	North Carolina State University
+- Julien Alban	Nguinkal,	Bernhard Nocht Institute for Tropical Medicine
+- Zach Popkin-Hall, Western Connecticut State University
+- Sarah	Buddenborg, McGill University
+- Valerie	Carson, Hillsborough College
+- Ana 	Feitzinger, Cold Spring Harbor Laboratory and Pathogen Data Network
+- Jason	Williams, Cold Spring Harbor Laboratory and Pathogen Data Network
