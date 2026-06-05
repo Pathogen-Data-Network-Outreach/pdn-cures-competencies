@@ -266,3 +266,7 @@ During the comment period, this material is open but not officially licensed for
 - Valerie	Carson, Hillsborough College
 - Ana 	Feitzinger, Cold Spring Harbor Laboratory and Pathogen Data Network
 - Jason	Williams, Cold Spring Harbor Laboratory and Pathogen Data Network
+
+**Funding Acknowledgement**
+
+This project is supported by the National Institute Of Allergy And Infectious Diseases of the National Institutes of Health under Award Number U24AI183840. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
