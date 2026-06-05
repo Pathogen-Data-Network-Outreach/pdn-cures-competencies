@@ -4,6 +4,24 @@
 
 *Course-Based Undergraduate Research Experiences with Pathogen Data*
 
+## Table of Contents
+
+- [The Goal](#the-goal)
+- [About the Workshop](#about-the-workshop)
+- [Competencies Working Group](#competencies-working-group)
+  - [Draft Competencies](#draft-competencies)
+    - [Feedback](#feedback)
+- [Career Track Personas](#career-track-personas)
+  - [Healthcare Track (Public Health Professional / Clinical Scientist)](#healthcare-track-public-health-professional--clinical-scientist)
+    - [Florence N. Smith - Public Health Professional](#florence-n-smith---public-health-professional)
+    - [Paul E. Johnson - Clinical Scientist](#paul-e-johnson---clinical-scientist)
+  - [Research Track (Basic Research Scientist / Applied Research Scientist)](#research-track-basic-research-scientist--applied-research-scientist)
+    - [Gregor M. Williams - Basic Research Scientist](#gregor-m-williams---basic-research-scientist)
+    - [Rosalind F. Brown - Applied Research Scientist](#rosalind-f-brown---applied-research-scientist)
+  - [Industry Track (Pathogen Data Scientist)](#industry-track-pathogen-data-scientist)
+    - [Ravi K. Sambasivan - Basic Research Scientist](#ravi-k-sambasivan---basic-research-scientist)
+    - [Maulana A. Karim - Applied Research Scientist](#maulana-a-karim---applied-research-scientist)
+- [Authors, Affiliations, and Reuse](#authors-affiliations-and-reuse)
 
 # The Goal
 
