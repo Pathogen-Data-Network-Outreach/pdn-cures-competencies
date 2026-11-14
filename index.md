@@ -22,6 +22,16 @@
     - [Basic Research Scientist](#ravi-k-sambasivan---basic-research-scientist)
     - [Applied Research Scientist](#maulana-a-karim---applied-research-scientist)
 - [CURE Module Working Group](#cure-modules-working-group)
+  - [Introduction and Overview](#introduction-and-overview--designing-a-wastewater-surveillance-cure-module-outlines-for-undergraduate-educators)
+  - [Module 1 — Introduction to Pathogen Surveillance](#module-1--introduction-to-pathogen-surveillance)
+  - [Module 2 — Research Design and Research Question Development](#module-2--research-design-and-research-question-development)
+  - [Module 3 — Water Sample Preparation and Processing for Sequencing](#module-3--water-sample-preparation-and-processing-for-sequencing)
+  - [Module 4 — Bioinformatics Analyses](#module-4--bioinformatics-analyses)
+  - [Module 5 — Data Analysis and Interpretation](#module-5--data-analysis-and-interpretation)
+  - [Module 6 — Scientific Communication and Data Dissemination](#module-6--scientific-communication-and-data-dissemination)
+  - [Supplementary Overarching Learning Outcomes and Notes on AI and Assessment](#supplementary-overarching-learning-outcomes-and-notes-on-ai-and-assessment)
+  - [Glossary](#glossary)
+  - [Laboratory, Field Collection, and Publication Resources](#laboratory-field-collection-and-publication-resources)
 - [Authors, Affiliations, and Reuse](#authors-affiliations-and-reuse)
 
 # The Goal
@@ -273,7 +283,7 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
 
 <iframe
   src="https://docs.google.com/document/d/e/2PACX-1vS6htENXEJtPr4gxmTF9iV3qnJUyKaurQ_U6AnYMMT-qZvyaqap9kiTchTEN0HEWtuFd-A4gN45nAox/pub?embedded=true"
-  title="Introduction and Overview"
+  title="Designing a Wastewater Surveillance CURE: Module Outlines for Undergraduate Educators"
   style="
     display: block;
     position: relative;
@@ -290,15 +300,174 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
 
 ### Module 1 — Introduction to Pathogen Surveillance
 
+<iframe
+  src="https://docs.google.com/document/d/e/2PACX-1vT9OUnH6Ia7H5D7_lEDDxUWv25KSasc96dMyQrGgtZV3gkjqHwDjapa4bmC1SxFtFQsNNUMp5uuf11U/pub?embedded=true"
+  title="Module 1 — Introduction to Pathogen Surveillance"
+  style="
+    display: block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: min(1440px, calc(100vw - 2rem));
+    max-width: none;
+    height: 85vh;
+    height: 85dvh;
+    border: 1px solid #aaa;
+    box-sizing: border-box;
+  ">
+</iframe>
 
 ### Module 2 — Research Design and Research Question Development
+
+<iframe
+  src="https://docs.google.com/document/d/e/2PACX-1vQmmnl-1Y781JbgyQqxbGbPcfujhGEaBV3uccKuIkXOjsIHO9YebbKD8w-hzbn056TfhRaO_G0TXKkj/pub?embedded=true"
+  title="Module 2 — Research Design and Research Question Development"
+  style="
+    display: block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: min(1440px, calc(100vw - 2rem));
+    max-width: none;
+    height: 85vh;
+    height: 85dvh;
+    border: 1px solid #aaa;
+    box-sizing: border-box;
+  ">
+</iframe>
+
 ### Module 3 — Water Sample Preparation and Processing for Sequencing
+
+<iframe
+  src="https://docs.google.com/document/d/e/2PACX-1vT5C0Lqm1N_sFkaJBQBbjSbzMjqvvhDk3RPcB_Kh5TzXZpKnGlvPaU7DuM6N-wIjHz9ug79rAYkLnhr/pub?embedded=true"
+  title="Module 3 — Water Sample Preparation and Processing for Sequencing"
+  style="
+    display: block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: min(1440px, calc(100vw - 2rem));
+    max-width: none;
+    height: 85vh;
+    height: 85dvh;
+    border: 1px solid #aaa;
+    box-sizing: border-box;
+  ">
+</iframe>
+
 ### Module 4 — Bioinformatics Analyses
+
+<iframe
+  src="https://docs.google.com/document/d/e/2PACX-1vSXP2dyfoSzhZSRuaH_9ztWHWbJYy0J8NKQp94483j2SpAXsl2dilGDqFbMmG0e2AcVkWUPBrfvgExE/pub?embedded=true"
+  title="Module 4 — Bioinformatics Analyses"
+  style="
+    display: block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: min(1440px, calc(100vw - 2rem));
+    max-width: none;
+    height: 85vh;
+    height: 85dvh;
+    border: 1px solid #aaa;
+    box-sizing: border-box;
+  ">
+</iframe>
+
 ### Module 5 — Data Analysis and Interpretation
+
+<iframe
+  src="https://docs.google.com/document/d/e/2PACX-1vSjlasneSRQkpoLl5oOolSxdE8pt-niKL-HndqysKnd0o5UQsGbv34C2WJs6yR6NY7Qn8s8U3ZpXdti/pub?embedded=true"
+  title="Module 5 — Data Analysis and Interpretation"
+  style="
+    display: block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: min(1440px, calc(100vw - 2rem));
+    max-width: none;
+    height: 85vh;
+    height: 85dvh;
+    border: 1px solid #aaa;
+    box-sizing: border-box;
+  ">
+</iframe>
+
 ### Module 6 — Scientific Communication and Data Dissemination
+
+<iframe
+  src="https://docs.google.com/document/d/e/2PACX-1vTcbDaw_7cn4mj5xEslGZ_WRAuvx8MkYU0BkM461Ww0wBkIlJjVfrC91SNUCUtDqYt2cFVpNb65Nq7z/pub?embedded=true"
+  title="Module 6 — Scientific Communication and Data Dissemination"
+  style="
+    display: block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: min(1440px, calc(100vw - 2rem));
+    max-width: none;
+    height: 85vh;
+    height: 85dvh;
+    border: 1px solid #aaa;
+    box-sizing: border-box;
+  ">
+</iframe>
+
 ### Supplementary Overarching Learning Outcomes and Notes on AI and Assessment
+
+<iframe
+  src="https://docs.google.com/document/d/e/2PACX-1vQn-CQUNve_fcj5-Q3fKtmalmuvrigDOLfK-UeB2MW5Ok95SMGHdRxExgeDvGiLNERXCVJXYdBTH9HT/pub?embedded=true"
+  title="Supplementary Overarching Learning Outcomes and Notes on AI and Assessment"
+  style="
+    display: block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: min(1440px, calc(100vw - 2rem));
+    max-width: none;
+    height: 85vh;
+    height: 85dvh;
+    border: 1px solid #aaa;
+    box-sizing: border-box;
+  ">
+</iframe>
+
 ### Glossary
+
+<iframe
+  src="https://docs.google.com/document/d/e/2PACX-1vTyjsvD5Vz1lLwnr2btOQxD5mqzkXCQDtVTLdQCVMUAN-lOn7g97pL6KWCjflNa6UUEFUhTK02dIMFT/pub?embedded=true"
+  title="Glossary"
+  style="
+    display: block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: min(1440px, calc(100vw - 2rem));
+    max-width: none;
+    height: 85vh;
+    height: 85dvh;
+    border: 1px solid #aaa;
+    box-sizing: border-box;
+  ">
+</iframe>
+
 ### Laboratory, Field Collection, and Publication Resources
+
+<iframe
+  src="https://docs.google.com/document/d/e/2PACX-1vQI8Y22k8jtjbd6TQpWkfCG68k9yeg72bKE-VDb0ojUi6702wMAGpi96jr6R5EGCRgHAApS7YOCOIKu/pub?embedded=true"
+  title="Laboratory, Field Collection, and Publication Resources"
+  style="
+    display: block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: min(1440px, calc(100vw - 2rem));
+    max-width: none;
+    height: 85vh;
+    height: 85dvh;
+    border: 1px solid #aaa;
+    box-sizing: border-box;
+  ">
+</iframe>
 
 
 ### Authors, Affiliations, and Reuse
