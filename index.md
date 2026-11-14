@@ -21,6 +21,7 @@
   - [Industry Track (Pathogen Data Scientist)](#industry-track-pathogen-data-scientist)
     - [Basic Research Scientist](#ravi-k-sambasivan---basic-research-scientist)
     - [Applied Research Scientist](#maulana-a-karim---applied-research-scientist)
+- [CURE Module Working Group](#cure-modules-working-group)
 - [Authors, Affiliations, and Reuse](#authors-affiliations-and-reuse)
 
 # The Goal
@@ -273,10 +274,23 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
 <iframe
   src="https://docs.google.com/document/d/e/2PACX-1vS6htENXEJtPr4gxmTF9iV3qnJUyKaurQ_U6AnYMMT-qZvyaqap9kiTchTEN0HEWtuFd-A4gN45nAox/pub?embedded=true"
   title="Introduction and Overview"
-  style="display: block; width: 100%; height: 85vh; height: 85dvh; border: 0;">
+  style="
+    display: block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: min(1440px, calc(100vw - 2rem));
+    max-width: none;
+    height: 85vh;
+    height: 85dvh;
+    border: 1px solid #aaa;
+    box-sizing: border-box;
+  ">
 </iframe>
 
 ### Module 1 — Introduction to Pathogen Surveillance
+
+
 ### Module 2 — Research Design and Research Question Development
 ### Module 3 — Water Sample Preparation and Processing for Sequencing
 ### Module 4 — Bioinformatics Analyses
