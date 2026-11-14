@@ -270,7 +270,11 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
 
 ### Introduction and Overview — Designing a Wastewater Surveillance CURE: Module Outlines for Undergraduate Educators
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSDbDFk7ueDKtOV10Vj3iMkAc3SUCFUcw7q8LHZp8N-zW40YCb3KyeETB6SDG6m5tgRpL33RNZwMVSu/pub?embedded=true"></iframe>
+<iframe
+  src="https://docs.google.com/document/d/e/2PACX-1vS6htENXEJtPr4gxmTF9iV3qnJUyKaurQ_U6AnYMMT-qZvyaqap9kiTchTEN0HEWtuFd-A4gN45nAox/pub?embedded=true"
+  title="Introduction and Overview"
+  style="display: block; width: 100%; height: 85vh; height: 85dvh; border: 0;">
+</iframe>
 
 ### Module 1 — Introduction to Pathogen Surveillance
 ### Module 2 — Research Design and Research Question Development
