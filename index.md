@@ -264,6 +264,24 @@ Activities of current role
 
 Maulana witnessed how COVID19 was tackled world-wide with the public and private healthcare sector come together to develop rapid diagnostic tests and surveillance of SARS-CoV-2 virus, the causative agent of the pandemic.  His basic training in data sciences and genomics with inroads to bacterial and viral sequence and data analysis led him to a role in industry. In industry he works with a team of wet and dry lab scientists to help develop novel methods of analyzing the huge of amount of pathogen data produced in-house and in public repositories.
 
+## CURE modules Working Group
+
+The CURE Module Working Group developed six curriculum outlines aligned with the Pathogen Data Network’s workforce competencies. Using wastewater surveillance as a shared research context, the modules guide instructors from introducing surveillance and designing an investigation through water sampling and preparation, bioinformatics, data interpretation, and scientific communication. Each module connects core and supplementary learning outcomes to relevant competencies and suggests activities and ways for students to demonstrate their learning. Instructors can use the outlines to design or refine a course-based undergraduate research experience that fits their students, research questions, and available resources. An accompanying glossary and resources provide stepping stones for instructors to adapt the content as they design or modify their CURE.
+
+### Introduction and Overview — Designing a Wastewater Surveillance CURE: Module Outlines for Undergraduate Educators
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSDbDFk7ueDKtOV10Vj3iMkAc3SUCFUcw7q8LHZp8N-zW40YCb3KyeETB6SDG6m5tgRpL33RNZwMVSu/pub?embedded=true"></iframe>
+
+### Module 1 — Introduction to Pathogen Surveillance
+### Module 2 — Research Design and Research Question Development
+### Module 3 — Water Sample Preparation and Processing for Sequencing
+### Module 4 — Bioinformatics Analyses
+### Module 5 — Data Analysis and Interpretation
+### Module 6 — Scientific Communication and Data Dissemination
+### Supplementary Overarching Learning Outcomes and Notes on AI and Assessment
+### Glossary
+### Laboratory, Field Collection, and Publication Resources
+
 
 ### Authors, Affiliations, and Reuse
 
