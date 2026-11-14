@@ -286,11 +286,7 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
   title="Designing a Wastewater Surveillance CURE: Module Outlines for Undergraduate Educators"
   style="
     display: block;
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-    width: min(1440px, calc(100vw - 2rem));
-    max-width: none;
+    width: 100%;
     height: 85vh;
     height: 85dvh;
     border: 1px solid #aaa;
@@ -305,11 +301,7 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
   title="Module 1 — Introduction to Pathogen Surveillance"
   style="
     display: block;
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-    width: min(1440px, calc(100vw - 2rem));
-    max-width: none;
+    width: 100%;
     height: 85vh;
     height: 85dvh;
     border: 1px solid #aaa;
@@ -324,11 +316,7 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
   title="Module 2 — Research Design and Research Question Development"
   style="
     display: block;
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-    width: min(1440px, calc(100vw - 2rem));
-    max-width: none;
+    width: 100%;
     height: 85vh;
     height: 85dvh;
     border: 1px solid #aaa;
@@ -343,11 +331,7 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
   title="Module 3 — Water Sample Preparation and Processing for Sequencing"
   style="
     display: block;
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-    width: min(1440px, calc(100vw - 2rem));
-    max-width: none;
+    width: 100%;
     height: 85vh;
     height: 85dvh;
     border: 1px solid #aaa;
@@ -362,11 +346,7 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
   title="Module 4 — Bioinformatics Analyses"
   style="
     display: block;
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-    width: min(1440px, calc(100vw - 2rem));
-    max-width: none;
+    width: 100%;
     height: 85vh;
     height: 85dvh;
     border: 1px solid #aaa;
@@ -381,11 +361,7 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
   title="Module 5 — Data Analysis and Interpretation"
   style="
     display: block;
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-    width: min(1440px, calc(100vw - 2rem));
-    max-width: none;
+    width: 100%;
     height: 85vh;
     height: 85dvh;
     border: 1px solid #aaa;
@@ -400,11 +376,7 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
   title="Module 6 — Scientific Communication and Data Dissemination"
   style="
     display: block;
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-    width: min(1440px, calc(100vw - 2rem));
-    max-width: none;
+    width: 100%;
     height: 85vh;
     height: 85dvh;
     border: 1px solid #aaa;
@@ -419,11 +391,7 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
   title="Supplementary Overarching Learning Outcomes and Notes on AI and Assessment"
   style="
     display: block;
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-    width: min(1440px, calc(100vw - 2rem));
-    max-width: none;
+    width: 100%;
     height: 85vh;
     height: 85dvh;
     border: 1px solid #aaa;
@@ -438,11 +406,7 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
   title="Glossary"
   style="
     display: block;
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-    width: min(1440px, calc(100vw - 2rem));
-    max-width: none;
+    width: 100%;
     height: 85vh;
     height: 85dvh;
     border: 1px solid #aaa;
@@ -457,18 +421,13 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
   title="Laboratory, Field Collection, and Publication Resources"
   style="
     display: block;
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-    width: min(1440px, calc(100vw - 2rem));
-    max-width: none;
+    width: 100%;
     height: 85vh;
     height: 85dvh;
     border: 1px solid #aaa;
     box-sizing: border-box;
   ">
 </iframe>
-
 
 ### Authors, Affiliations, and Reuse
 
