@@ -339,6 +339,11 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
   ">
 </iframe>
 
+<a class="cure-doc-link"
+   href="https://docs.google.com/document/d/1g6jW5FnAyXs6eP8OVQAsL-UrikNHBgN7zDB-Ews8FTw/edit?usp=sharing"
+   target="_blank" rel="noopener"
+   aria-label="Access Google Doc for Module 1 (opens in a new tab)">Access Google Doc</a>
+
 ### Module 2 — Research Design and Research Question Development
 
 <iframe
@@ -353,6 +358,11 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
     box-sizing: border-box;
   ">
 </iframe>
+
+<a class="cure-doc-link"
+   href="https://docs.google.com/document/d/13lVEzb5706ETYlOEbqdEglLUClTCKG6cZ8pZ33bVtu4/edit?usp=sharing"
+   target="_blank" rel="noopener"
+   aria-label="Access Google Doc for Module 2 (opens in a new tab)">Access Google Doc</a>
 
 ### Module 3 — Water Sample Preparation and Processing for Sequencing
 
@@ -369,6 +379,11 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
   ">
 </iframe>
 
+<a class="cure-doc-link"
+   href="https://docs.google.com/document/d/1O1oV1dMXnZUrTXCaS51qVh7RmQYliLSN-qH1gMN6DWc/edit?usp=sharing"
+   target="_blank" rel="noopener"
+   aria-label="Access Google Doc for Module 3 (opens in a new tab)">Access Google Doc</a>
+
 ### Module 4 — Bioinformatics Analyses
 
 <iframe
@@ -383,6 +398,11 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
     box-sizing: border-box;
   ">
 </iframe>
+
+<a class="cure-doc-link"
+   href="https://docs.google.com/document/d/1EOzWrjlHuGosFmoB6QrI69NfGacaUNdoChUYIHocfoY/edit?usp=sharing"
+   target="_blank" rel="noopener"
+   aria-label="Access Google Doc for Module 4 (opens in a new tab)">Access Google Doc</a>
 
 ### Module 5 — Data Analysis and Interpretation
 
@@ -399,6 +419,11 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
   ">
 </iframe>
 
+<a class="cure-doc-link"
+   href="https://docs.google.com/document/d/1hha2HqbMoPeUpVwBeJ8bESatjQwPw4Xtgj0Bsm2T1Do/edit?usp=sharing"
+   target="_blank" rel="noopener"
+   aria-label="Access Google Doc for Module 5 (opens in a new tab)">Access Google Doc</a>
+
 ### Module 6 — Scientific Communication and Data Dissemination
 
 <iframe
@@ -413,6 +438,11 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
     box-sizing: border-box;
   ">
 </iframe>
+
+<a class="cure-doc-link"
+   href="https://docs.google.com/document/d/12tBYAZdlooCFcPJ1TI6WQbQNfAS9emuHNcrdCLHK2es/edit?usp=sharing"
+   target="_blank" rel="noopener"
+   aria-label="Access Google Doc for Module 6 (opens in a new tab)">Access Google Doc</a>
 
 ### Supplementary Overarching Learning Outcomes and Notes on AI and Assessment
 
@@ -429,6 +459,11 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
   ">
 </iframe>
 
+<a class="cure-doc-link"
+   href="https://docs.google.com/document/d/11rUlfoq1pHBN_UpWAEA6XYOYsO9GTbInHoIxy_WoWTE/edit?usp=sharing"
+   target="_blank" rel="noopener"
+   aria-label="Access Google Doc for Supplementary Learning Outcomes and AI Assessment (opens in a new tab)">Access Google Doc</a>
+
 ### Glossary
 
 <iframe
@@ -444,6 +479,11 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
   ">
 </iframe>
 
+<a class="cure-doc-link"
+   href="https://docs.google.com/document/d/1elxXqMHlRZOQ9NCpGQsgL_phDfL13QXG7XB3Qv6ELdQ/edit?usp=sharing"
+   target="_blank" rel="noopener"
+   aria-label="Access Google Doc for the Glossary (opens in a new tab)">Access Google Doc</a>
+
 ### Laboratory, Field Collection, and Publication Resources
 
 <iframe
@@ -458,6 +498,11 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
     box-sizing: border-box;
   ">
 </iframe>
+
+<a class="cure-doc-link"
+   href="https://docs.google.com/document/d/1Y_Lj1AGql_lJbE5xBCxZuck0suhY3YIgLTFP8FIkgco/edit?usp=sharing"
+   target="_blank" rel="noopener"
+   aria-label="Access Google Doc for Laboratory, Field Collection, and Publication Resources (opens in a new tab)">Access Google Doc</a>
 
 ### Authors, Affiliations, and Reuse
 
