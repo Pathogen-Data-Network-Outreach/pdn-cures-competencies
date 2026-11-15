@@ -247,7 +247,7 @@ a.cure-survey-link:hover {
 <section class="cure-intro" aria-labelledby="pdn-cure-title">
   <img src="{{ '/img/logo.png' | relative_url }}" alt="Pathogen Data Network">
   <h1 id="pdn-cure-title">Pathogen data competencies and CURE modules</h1>
-  <p>Review draft workforce competencies, explore career personas, and browse six outlines for a course-based undergraduate research experience (CURE) on wastewater surveillance.</p>
+  <p>Review draft workforce competencies, explore career personas, and provide feedback on six outlines for a course-based undergraduate research experience (CURE) on wastewater pathogen surveillance.</p>
 </section>
 
 ## Table of Contents
@@ -312,7 +312,7 @@ a.cure-survey-link:hover {
   </div>
 </nav>
 
-## The Goal
+## The goal
 
 Advances in genomics, bioinformatics, artificial intelligence, and data-intensive approaches are transforming how we study pathogens, monitor infectious diseases, develop diagnostics, support clinical decision-making, and respond to public health challenges. At the same time, the infectious disease workforce is highly diverse, spanning clinical care, public health, surveillance, biotechnology, pharmaceutical development, laboratory science, data science, and research. As technologies evolve, educators face an important question: **What knowledge, skills, and abilities should learners develop to prepare them for success in these rapidly changing fields?**
 
@@ -324,8 +324,8 @@ In parallel with the competency framework, this project presents a series of mod
 
 <aside class="cure-review" aria-label="Community review">
   <p><strong>Community review</strong></p>
-  <p>We invite educators, researchers, clinicians, public health professionals, industry partners, workforce development leaders, and other stakeholders to review these drafts. The survey collects feedback on the competencies and their alignment with career roles. The <strong>Access Google Doc</strong> buttons open the module outlines for comments.</p>
-  <p><a href="#feedback">Competency survey</a> · <a href="#cure-modules-working-group">CURE module outlines</a></p>
+  <p>We invite educators, researchers, clinicians, public health professionals, industry partners, workforce development leaders, and other stakeholders to review these drafts. The survey collects feedback on the competencies and their alignment with career roles. The <strong>Access Google Doc</strong> buttons open the module outlines and comments and ratings can be entered in the Feedback survey.</p>
+  <p><a href="#feedback">Feedback Survey</a></p>
 </aside>
 
 ## About the workshop
@@ -402,8 +402,8 @@ This chart has the following features:
 - **#**: Our numbering of the competency.
 - **Heading**: A short title that captures the essence of the competency.
 - **Competency**: A set of knowledge, skills, and abilities that represent what a competent practitioner should be able to do. While no single course, undergraduate or otherwise, may be sufficient to achieve competency, the overall curriculum or course of training should aim to enable a learner to achieve the stated competency.
-- **CURE matching module**: These are the designations of modular curriculum outlines that this group is developing and that address the indicated competency.
-- **CURE persona matching**: This is the persona or personas for which the listed competency will typically be most relevant.
+- **CURE matching alignment**: These are the designations of modular curriculum outlines that this group is developing and that address the indicated competency.
+- **CURE persona alignment**: These are the personas for which the listed competency will typically be most relevant.
 
 
 <iframe class="cure-frame cure-sheet"
