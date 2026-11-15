@@ -350,7 +350,7 @@ The Pathogen Data Network invites undergraduate educators and colleagues in rese
 
 <div class="cure-actions" style="flex-direction: column; align-items: center; text-align: center;">
   <a class="cure-survey-link" href="https://www.surveymonkey.com/r/pdn-workforce-competencies-and-cures-review"
-     target="_blank" rel="noopener">Provide Feedback on These Competencies</a>
+     target="_blank" rel="noopener">Provide feedback on the Competencies and/or CURE modules</a>
   <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZhqQHS7-tPcvQqtTkTi9wd3-GsQsBjUr4y-V5y2H05rNrC8_fmR0FPW8qQ4txwNBtohsoq64TbaVT/pubhtml?gid=92281840&amp;single=true&amp;widget=true&amp;headers=false"
      target="_blank" rel="noopener">Open the competency table in a new tab</a>
 </div>
