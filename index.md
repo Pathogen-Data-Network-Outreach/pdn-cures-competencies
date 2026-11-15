@@ -342,6 +342,41 @@ Although NIH's emphasis on trainee preparation generally targets the graduate le
 Undergraduate-focused resources can also engage students outside elite research institutions, including at community colleges, regional public universities, rural institutions, and other settings that may have fewer resources. This is especially important because future workforce needs will require talent from a much wider range of educational backgrounds and geographic regions.
 The resulting competency framework serves as a foundation for learners at later career stages. Graduate students, postdoctoral fellows, clinical laboratory personnel, public health professionals, and other advanced learners can also benefit from the competency framework and modular training resources developed through this effort.
 
+## Feedback
+
+The Pathogen Data Network invites undergraduate educators and colleagues in research, public health, clinical and diagnostic laboratories, industry, workforce development, and related fields to review the draft workforce competencies and course-based undergraduate research experience (CURE) module outlines.
+
+**The survey is the primary way to provide feedback.** Choose one competency or one module per submission. You can return to the survey to review additional items.
+
+<div class="cure-actions" style="flex-direction: column; align-items: center; text-align: center;">
+  <a class="cure-survey-link" href="https://www.surveymonkey.com/r/pdn-workforce-competencies-and-cures-review"
+     target="_blank" rel="noopener">Provide Feedback on These Competencies</a>
+  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZhqQHS7-tPcvQqtTkTi9wd3-GsQsBjUr4y-V5y2H05rNrC8_fmR0FPW8qQ4txwNBtohsoq64TbaVT/pubhtml?gid=92281840&amp;single=true&amp;widget=true&amp;headers=false"
+     target="_blank" rel="noopener">Open the competency table in a new tab</a>
+</div>
+
+### Review a workforce competency
+
+A competency describes an observable ability to bring knowledge, skills, values, and attitudes together in practice [1]. The draft competencies describe what people need to be able to do across infectious disease career pathways. Educators and trainers can use them to decide which abilities to develop and assess in their programs.
+
+Allow **5–10 minutes** per competency. Anyone can comment on the wording. If you work in an infectious disease–related role, start with a competency that matters to your work. First, check whether the wording clearly and unambiguously describes what someone should be able to do. Then consider which career pathways the competency is relevant to and where students could develop it in the CURE modules.
+
+### Review a CURE module
+
+The six wastewater surveillance outlines give undergraduate educators a starting point for designing a new research course or refining an existing one. Each outline identifies core activities, sets learning outcomes, and suggests ways to teach and assess them. A learning outcome states what students should be able to demonstrate by the end of a module. It helps instructors choose activities and decide what student work would serve as evidence of learning.
+
+Allow **30–40 minutes** for a complete module review. Undergraduate instructors and course designers are especially well placed to judge whether the learning outcomes are appropriate for students and whether the suggested activities and assessments support them. Anyone can comment. We particularly encourage wastewater surveillance professionals to comment on how the outlines reflect the work in practice.
+
+### Collaborate on a publication
+
+We welcome collaborators who want to provide extensive feedback, pilot the competencies or CURE modules in their own teaching, or both. We plan to submit a manuscript presenting the competencies and module outlines to a peer-reviewed journal. If you would like to contribute to the work and discuss potential co-authorship, use the interest form to tell us how you would like to participate.
+
+[Register your interest in collaborating](https://www.surveymonkey.com/r/pdn-cures-collaboration)
+
+**Reference**
+
+1. Frank, J. R., Snell, L. S., ten Cate, O., et al. (2010). Competency-based medical education: Theory to practice. *Medical Teacher, 32*(8), 638–645. [DOI](https://doi.org/10.3109/0142159X.2010.501190).
+
 ## Competencies Working Group
 
 The Competencies Working Group focused on defining the broad competencies needed for future success in pathogen-related fields. Participants emphasized that competencies should be appropriate for undergraduate learners while remaining relevant to workforce needs.
@@ -372,16 +407,6 @@ This chart has the following features:
 - **CURE matching module**: These are the designations of modular curriculum outlines that this group is developing and that address the indicated competency.
 - **CURE persona matching**: This is the persona or personas for which the listed competency will typically be most relevant.
 
-#### Feedback
-
-Please consider providing feedback via a short survey. We'd like your opinion on how these align to career roles or suggestions for wording improvements.
-
-<div class="cure-actions">
-  <a class="cure-survey-link" href="https://www.surveymonkey.com/r/RKBFQ39"
-     target="_blank" rel="noopener">Provide Feedback on These Competencies</a>
-  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZhqQHS7-tPcvQqtTkTi9wd3-GsQsBjUr4y-V5y2H05rNrC8_fmR0FPW8qQ4txwNBtohsoq64TbaVT/pubhtml?gid=92281840&amp;single=true&amp;widget=true&amp;headers=false"
-     target="_blank" rel="noopener">Open the competency table in a new tab</a>
-</div>
 
 <iframe class="cure-frame cure-sheet"
   src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZhqQHS7-tPcvQqtTkTi9wd3-GsQsBjUr4y-V5y2H05rNrC8_fmR0FPW8qQ4txwNBtohsoq64TbaVT/pubhtml?gid=92281840&amp;single=true&amp;widget=true&amp;headers=false"
