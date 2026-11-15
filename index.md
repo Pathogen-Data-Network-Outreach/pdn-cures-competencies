@@ -1,3 +1,28 @@
+<style>
+  a.cure-doc-link {
+    display: inline-block;
+    margin-bottom: 1rem;
+    padding: 14px 28px;
+    background-color: #005ea2;
+    color: #fff;
+    border-radius: 6px;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  a.cure-doc-link:hover {
+    background-color: #004a80;
+    color: #fff;
+    text-decoration: underline;
+  }
+
+  a.cure-doc-link:focus-visible {
+    outline: 2px solid #005ea2;
+    outline-offset: 3px;
+  }
+</style>
+
+
 <p align="center">
   <img src="{{ '/img/logo.png' | relative_url }}" alt="Pathogen Data Network" style="width:100%; max-width:600px;">
 </p>
@@ -293,6 +318,11 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
     box-sizing: border-box;
   ">
 </iframe>
+
+<a class="cure-doc-link"
+   href="https://docs.google.com/document/d/1MMof5lqChEHEbDdkbmO31msKr52BJMLQ-8NjGG-CJ4I/edit?usp=sharing"
+   target="_blank" rel="noopener"
+   aria-label="Access Google Doc for the Introduction and Overview (opens in a new tab)">Access Google Doc</a>
 
 ### Module 1 — Introduction to Pathogen Surveillance
 
