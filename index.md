@@ -1,65 +1,318 @@
+---
+layout: home
+---
+
 <style>
-  a.cure-doc-link {
-    display: inline-block;
-    margin-bottom: 1rem;
-    padding: 14px 28px;
-    background-color: #005ea2;
-    color: #fff;
-    border-radius: 6px;
-    font-weight: bold;
-    text-decoration: none;
-  }
+.site-header .wrapper,
+.page-content .wrapper,
+.site-footer .wrapper {
+  max-width: 68rem;
+  padding-inline: clamp(1rem, 3vw, 2rem);
+}
 
-  a.cure-doc-link:hover {
-    background-color: #004a80;
-    color: #fff;
-    text-decoration: underline;
-  }
+.site-header .site-title {
+  float: none;
+  display: inline-block;
+  padding-block: 0.9rem;
+  font-size: 1.125rem;
+  font-weight: 600;
+  line-height: 1.4;
+  letter-spacing: 0;
+}
 
-  a.cure-doc-link:focus-visible {
-    outline: 2px solid #005ea2;
-    outline-offset: 3px;
-  }
+.home {
+  color: #23384a;
+  line-height: 1.65;
+}
+
+.home > p {
+  max-width: 76ch;
+}
+
+.home h1,
+.home h2,
+.home h3,
+.home h4 {
+  clear: both;
+  color: #163247;
+  line-height: 1.3;
+  scroll-margin-top: 1.25rem;
+}
+
+.home > h2 {
+  margin-top: 2.75rem;
+  padding-top: 1rem;
+  border-top: 1px solid #d9e5ee;
+}
+
+.home > #table-of-contents {
+  margin-top: 1.75rem;
+  padding-top: 0;
+  border-top: 0;
+}
+
+.home > h3 {
+  margin-top: 2rem;
+}
+
+.home > h4 {
+  margin-top: 1.5rem;
+  font-weight: 600;
+}
+
+.cure-intro {
+  padding: clamp(1.25rem, 4vw, 2.5rem);
+  border: 1px solid #d2e2ef;
+  border-radius: 1rem;
+  background: #f1f7fc;
+}
+
+.cure-intro img {
+  display: block;
+  max-width: min(15rem, 100%);
+  height: auto;
+  margin-bottom: 1rem;
+}
+
+.cure-intro h1 {
+  margin-bottom: 0.65rem;
+  font-size: clamp(1.9rem, 4vw, 2.75rem);
+  font-weight: 650;
+}
+
+.cure-intro p {
+  max-width: 67ch;
+  margin: 0;
+  font-size: 1.125rem;
+}
+
+.cure-contents {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 13rem), 1fr));
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+  overflow-wrap: anywhere;
+}
+
+.cure-contents-group {
+  min-width: 0;
+  padding: 0.9rem 1rem;
+  border: 1px solid #d9e5ee;
+  border-radius: 0.75rem;
+  background: #f9fbfd;
+}
+
+.cure-contents-group p {
+  margin: 0 0 0.3rem;
+}
+
+.cure-contents-group ul {
+  margin: 0 0 0 1.15rem;
+}
+
+.cure-contents-group li {
+  margin: 0.2rem 0;
+}
+
+.cure-contents details {
+  margin-top: 0.45rem;
+}
+
+.cure-contents summary,
+.cure-preview summary {
+  color: #164b73;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.cure-contents a {
+  text-decoration: underline;
+  text-underline-offset: 0.14em;
+}
+
+.cure-review {
+  max-width: 76ch;
+  margin-block: 1.35rem;
+  padding: 1rem 1.2rem;
+  border-left: 4px solid #005ea2;
+  border-radius: 0 0.55rem 0.55rem 0;
+  background: #f1f7fc;
+}
+
+.cure-review p {
+  margin: 0 0 0.45rem;
+}
+
+.cure-review p:last-child {
+  margin-bottom: 0;
+}
+
+.cure-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.65rem 1rem;
+  margin: 0.65rem 0 0.75rem;
+}
+
+a.cure-doc-link,
+a.cure-survey-link {
+  display: inline-block;
+  padding: 0.55rem 0.95rem;
+  border: 1px solid #adc9de;
+  border-radius: 0.4rem;
+  color: #164b73;
+  background: #edf5fb;
+  font-weight: 650;
+  text-decoration: none;
+}
+
+a.cure-survey-link {
+  border-color: #005ea2;
+  color: #fff;
+  background: #005ea2;
+}
+
+a.cure-doc-link:hover {
+  color: #163247;
+  background: #dcecf8;
+  text-decoration: underline;
+}
+
+a.cure-survey-link:hover {
+  color: #fff;
+  background: #004a80;
+  text-decoration: underline;
+}
+
+.cure-actions a:focus-visible,
+.cure-contents a:focus-visible,
+.cure-contents summary:focus-visible,
+.cure-preview summary:focus-visible {
+  outline: 2px solid #005ea2;
+  outline-offset: 3px;
+}
+
+.cure-portrait {
+  float: right;
+  width: clamp(5rem, 19vw, 8rem);
+  margin: 0 0 0.9rem 1.15rem;
+}
+
+.cure-portrait img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: 50% 25%;
+  border-radius: 0.7rem;
+}
+
+.cure-preview {
+  clear: both;
+  margin-bottom: 1.7rem;
+  border: 1px solid #c8dbe9;
+  border-radius: 0.65rem;
+  background: #f6fafd;
+}
+
+.cure-preview > summary {
+  padding: 0.65rem 1rem;
+}
+
+.cure-frame {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  height: 72vh;
+  height: 72dvh;
+  min-height: 22rem;
+  border: 1px solid #c8dbe9;
+  border-radius: 0.55rem;
+  background: #fff;
+}
+
+.cure-preview > .cure-frame {
+  border-width: 1px 0 0;
+  border-radius: 0 0 0.65rem 0.65rem;
+}
+
+.cure-sheet {
+  height: clamp(22rem, 66vh, 43rem);
+  height: clamp(22rem, 66dvh, 43rem);
+}
 </style>
 
 
-<p align="center">
-  <img src="{{ '/img/logo.png' | relative_url }}" alt="Pathogen Data Network" style="width:100%; max-width:600px;">
-</p>
-
-*Course-Based Undergraduate Research Experiences with Pathogen Data*
+<section class="cure-intro" aria-labelledby="pdn-cure-title">
+  <img src="{{ '/img/logo.png' | relative_url }}" alt="Pathogen Data Network">
+  <h1 id="pdn-cure-title">Pathogen data competencies and CURE modules</h1>
+  <p>Review draft workforce competencies, explore career personas, and browse six outlines for a course-based undergraduate research experience (CURE) on wastewater surveillance.</p>
+</section>
 
 ## Table of Contents
 
-- [The Goal](#the-goal)
-- [About the Workshop](#about-the-workshop)
-- [Competencies Working Group](#competencies-working-group)
-  - [Draft Competencies](#draft-competencies)
-    - [Feedback Survey](#feedback)
-- [Career Track Personas](#career-track-personas)
-  - [Healthcare Track (Public Health Professional / Clinical Scientist)](#healthcare-track-public-health-professional--clinical-scientist)
-    - [Public Health Professional](#florence-n-smith---public-health-professional)
-    - [Clinical Scientist](#paul-e-johnson---clinical-scientist)
-  - [Research Track (Basic Research Scientist / Applied Research Scientist)](#research-track-basic-research-scientist--applied-research-scientist)
-    - [Basic Research Scientist](#gregor-m-williams---basic-research-scientist)
-    - [Applied Research Scientist](#rosalind-f-brown---applied-research-scientist)
-  - [Industry Track (Pathogen Data Scientist)](#industry-track-pathogen-data-scientist)
-    - [Basic Research Scientist](#ravi-k-sambasivan---basic-research-scientist)
-    - [Applied Research Scientist](#maulana-a-karim---applied-research-scientist)
-- [CURE Module Working Group](#cure-modules-working-group)
-  - [Introduction and Overview](#introduction-and-overview--designing-a-wastewater-surveillance-cure-module-outlines-for-undergraduate-educators)
-  - [Module 1 — Introduction to Pathogen Surveillance](#module-1--introduction-to-pathogen-surveillance)
-  - [Module 2 — Research Design and Research Question Development](#module-2--research-design-and-research-question-development)
-  - [Module 3 — Water Sample Preparation and Processing for Sequencing](#module-3--water-sample-preparation-and-processing-for-sequencing)
-  - [Module 4 — Bioinformatics Analyses](#module-4--bioinformatics-analyses)
-  - [Module 5 — Data Analysis and Interpretation](#module-5--data-analysis-and-interpretation)
-  - [Module 6 — Scientific Communication and Data Dissemination](#module-6--scientific-communication-and-data-dissemination)
-  - [Supplementary Overarching Learning Outcomes and Notes on AI and Assessment](#supplementary-overarching-learning-outcomes-and-notes-on-ai-and-assessment)
-  - [Glossary](#glossary)
-  - [Laboratory, Field Collection, and Publication Resources](#laboratory-field-collection-and-publication-resources)
-- [Authors, Affiliations, and Reuse](#authors-affiliations-and-reuse)
+<nav class="cure-contents" aria-labelledby="table-of-contents">
+  <div class="cure-contents-group">
+    <p><strong>Project</strong></p>
+    <ul>
+      <li><a href="#the-goal">The goal</a></li>
+      <li><a href="#about-the-workshop">About the workshop</a></li>
+      <li><a href="#authors-affiliations-and-reuse">Authors, Affiliations, and Reuse</a></li>
+    </ul>
+  </div>
+  <div class="cure-contents-group">
+    <p><strong>Workforce competencies</strong></p>
+    <ul>
+      <li><a href="#competencies-working-group">Competencies Working Group</a></li>
+      <li><a href="#draft-competencies">Draft Competencies</a></li>
+      <li><a href="#feedback">Feedback Survey</a></li>
+    </ul>
+  </div>
+  <div class="cure-contents-group">
+    <p><strong>Career personas</strong></p>
+    <ul>
+      <li><a href="#career-track-personas">Career Track Personas</a></li>
+      <li><a href="#healthcare-track-public-health-professional--clinical-scientist">Healthcare Track</a></li>
+      <li><a href="#research-track-basic-research-scientist--applied-research-scientist">Research Track</a></li>
+      <li><a href="#industry-track-pathogen-data-scientist">Industry Track</a></li>
+    </ul>
+    <details>
+      <summary>Individual personas</summary>
+      <ul>
+        <li><a href="#florence-n-smith---public-health-professional">Florence N. Smith</a></li>
+        <li><a href="#paul-e-johnson---clinical-scientist">Paul E. Johnson</a></li>
+        <li><a href="#gregor-m-williams---basic-research-scientist">Gregor M. Williams</a></li>
+        <li><a href="#rosalind-f-brown---applied-research-scientist">Rosalind F. Brown</a></li>
+        <li><a href="#ravi--k-sambasivan---basic-research-scientist">Ravi K. Sambasivan</a></li>
+        <li><a href="#maulana-a-karim---applied-research-scientist">Maulana A. Karim</a></li>
+      </ul>
+    </details>
+  </div>
+  <div class="cure-contents-group">
+    <p><strong>CURE materials</strong></p>
+    <ul>
+      <li><a href="#cure-modules-working-group">CURE Module Working Group</a></li>
+      <li><a href="#introduction-and-overview--designing-a-wastewater-surveillance-cure-module-outlines-for-undergraduate-educators">Introduction and Overview</a></li>
+    </ul>
+    <details>
+      <summary>Modules and resources</summary>
+      <ul>
+        <li><a href="#module-1--introduction-to-pathogen-surveillance">Module 1 — Introduction to Pathogen Surveillance</a></li>
+        <li><a href="#module-2--research-design-and-research-question-development">Module 2 — Research Design and Research Question Development</a></li>
+        <li><a href="#module-3--water-sample-preparation-and-processing-for-sequencing">Module 3 — Water Sample Preparation and Processing for Sequencing</a></li>
+        <li><a href="#module-4--bioinformatics-analyses">Module 4 — Bioinformatics Analyses</a></li>
+        <li><a href="#module-5--data-analysis-and-interpretation">Module 5 — Data Analysis and Interpretation</a></li>
+        <li><a href="#module-6--scientific-communication-and-data-dissemination">Module 6 — Scientific Communication and Data Dissemination</a></li>
+        <li><a href="#supplementary-overarching-learning-outcomes-and-notes-on-ai-and-assessment">Supplementary learning outcomes and AI assessment</a></li>
+        <li><a href="#glossary">Glossary</a></li>
+        <li><a href="#laboratory-field-collection-and-publication-resources">Laboratory, Field Collection, and Publication Resources</a></li>
+      </ul>
+    </details>
+  </div>
+</nav>
 
-# The Goal
+## The Goal
 
 Advances in genomics, bioinformatics, artificial intelligence, and data-intensive approaches are transforming how we study pathogens, monitor infectious diseases, develop diagnostics, support clinical decision-making, and respond to public health challenges. At the same time, the infectious disease workforce is highly diverse, spanning clinical care, public health, surveillance, biotechnology, pharmaceutical development, laboratory science, data science, and research. As technologies evolve, educators face an important question: **What knowledge, skills, and abilities should learners develop to prepare them for success in these rapidly changing fields?**
 
@@ -67,9 +320,13 @@ The goal of this project is to develop a community-informed framework of workfor
 
 Because the infectious disease workforce encompasses many different career pathways, we have also developed a set of **personas** that represent broad categories of professionals. These personas help identify where a competency may be most relevant without implying that every competency is equally important for every role. The personas are intended to support curriculum planning, workforce alignment, and discussion among stakeholders while recognizing that many professionals work across traditional boundaries and may require competencies associated with multiple personas.
 
-In parallel with the competency framework, this project is developing a series of modular **Course-based Undergraduate Research Experience (CURE)** curriculum outlines. These modules are designed to provide flexible pathways for integrating pathogen data, genomics, bioinformatics, artificial intelligence, ethics, and workforce preparation into undergraduate education. Each module will identify the competencies it supports and provide guidance for how educators can incorporate authentic research experiences into their courses. Draft CURE modules will be published in the near future and are intended to serve as practical examples of how the competency framework can be translated into educational practice.
+In parallel with the competency framework, this project presents a series of modular **Course-based Undergraduate Research Experience (CURE)** curriculum outlines. These modules are designed to provide flexible pathways for integrating pathogen data, genomics, bioinformatics, artificial intelligence, ethics, and workforce preparation into undergraduate education. Each module identifies the competencies it supports and provides guidance for how educators can incorporate authentic research experiences into their courses. The draft modules provide practical examples of how the competency framework can be translated into educational practice.
 
-This site presents the current draft competencies and associated personas for community review. We invite educators, researchers, clinicians, public health professionals, industry partners, workforce development leaders, and other stakeholders to provide feedback to help ensure these competencies accurately reflect the needs of the evolving infectious disease workforce.
+<aside class="cure-review" aria-label="Community review">
+  <p><strong>Community review</strong></p>
+  <p>We invite educators, researchers, clinicians, public health professionals, industry partners, workforce development leaders, and other stakeholders to review these drafts. The survey collects feedback on the competencies and their alignment with career roles. The <strong>Access Google Doc</strong> buttons open the module outlines for comments.</p>
+  <p><a href="#feedback">Competency survey</a> · <a href="#cure-modules-working-group">CURE module outlines</a></p>
+</aside>
 
 ## About the workshop
 
@@ -77,7 +334,8 @@ The PDN CUREs Workshop was held March 23–25, 2026, at Cold Spring Harbor Labor
 The workshop was announced internationally and attracted more than 100 applicants. A competitive cohort of educators, researchers, bioinformaticians, public health specialists, and industry representatives was selected to participate. Attendees represented a broad range of expertise, including microbiology, genomics, One Health, bioinformatics, undergraduate education, workforce training, and laboratory operations.
 
 The workshop brought together participants from universities, community colleges, research institutes, public health-oriented organizations, industry, and international training programs. These broad perspectives were essential for ensuring that resulting materials would be relevant across multiple career paths and educational settings, including undergraduate education, workforce training, clinical and public health contexts, and laboratory research.
-Rationale for Undergraduate-Focused Training
+
+### Rationale for undergraduate training
 
 Although NIH's emphasis on trainee preparation generally targets the graduate level, choosing undergraduate education as the baseline provides several advantages. Focusing on introductory experiences allowed participants to develop materials that support many future career pathways, including clinical care, diagnostics, public health, surveillance, biotechnology, pharmaceutical and applied research, and basic research. Course-based Undergraduate Research Experiences (CUREs) provide an evidence-based and highly effective model for building the foundational skills, competencies, and habits of mind needed for infectious disease careers.
 
@@ -91,16 +349,17 @@ The Competencies Working Group focused on defining the broad competencies needed
 The group initially assembled more than 100 competency ideas spanning laboratory skills, project management, bioinformatics, ethics, data analysis, and professional skills. Participants agreed that these should eventually be refined into a smaller, more manageable set of approximately 30 high-level competencies.
 
 Key competency domains identified by the group included:
-Core project and teamwork skills
-Experimental design and project management
-Pathogen biology and microbiology
-Laboratory and sequencing methods
-Bioinformatics and data analysis
-Statistics and interpretation
-Artificial intelligence, automation, and responsible use of AI tools
-Ethics, privacy, and trust
-Communication and science communication
-Career-spanning learning and workforce readiness
+
+- Core project and teamwork skills
+- Experimental design and project management
+- Pathogen biology and microbiology
+- Laboratory and sequencing methods
+- Bioinformatics and data analysis
+- Statistics and interpretation
+- Artificial intelligence, automation, and responsible use of AI tools
+- Ethics, privacy, and trust
+- Communication and science communication
+- Career-spanning learning and workforce readiness
 
 ### Draft Competencies
 
@@ -117,26 +376,17 @@ This chart has the following features:
 
 Please consider providing feedback via a short survey. We'd like your opinion on how these align to career roles or suggestions for wording improvements.
 
-<p style="text-align:center;">
-  <a href="https://www.surveymonkey.com/r/RKBFQ39"
-     target="_blank"
-     style="
-       display:inline-block;
-       padding:14px 28px;
-       background:#005ea2;
-       color:white;
-       text-decoration:none;
-       border-radius:6px;
-       font-weight:bold;">
-    Provide Feedback on These Competencies
-  </a>
-</p>
+<div class="cure-actions">
+  <a class="cure-survey-link" href="https://www.surveymonkey.com/r/RKBFQ39"
+     target="_blank" rel="noopener">Provide Feedback on These Competencies</a>
+  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZhqQHS7-tPcvQqtTkTi9wd3-GsQsBjUr4y-V5y2H05rNrC8_fmR0FPW8qQ4txwNBtohsoq64TbaVT/pubhtml?gid=92281840&amp;single=true&amp;widget=true&amp;headers=false"
+     target="_blank" rel="noopener">Open the competency table in a new tab</a>
+</div>
 
-<iframe
-  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZhqQHS7-tPcvQqtTkTi9wd3-GsQsBjUr4y-V5y2H05rNrC8_fmR0FPW8qQ4txwNBtohsoq64TbaVT/pubhtml?gid=92281840&single=true&widget=true&headers=false"
-  width="100%"
-  height="1600"
-  style="border:none;">
+<iframe class="cure-frame cure-sheet"
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZhqQHS7-tPcvQqtTkTi9wd3-GsQsBjUr4y-V5y2H05rNrC8_fmR0FPW8qQ4txwNBtohsoq64TbaVT/pubhtml?gid=92281840&amp;single=true&amp;widget=true&amp;headers=false"
+  title="Draft Pathogen Data Network workforce competencies"
+  loading="lazy">
 </iframe>
 
 
@@ -153,7 +403,7 @@ Examples of professionals related to this track: policy-makers, epidemiologists,
 
 #### Florence N. Smith - Public Health Professional
 
-<div style="text-align:center;">
+<div class="cure-portrait">
   <img src="img/florence.jpg" alt="Florence" style="max-width:150px;">
 </div>
 
@@ -179,7 +429,7 @@ Florence’s work within the Ministry of Health supports the integration of path
 
 #### Paul E. Johnson - Clinical Scientist
 
-<div style="text-align:center;">
+<div class="cure-portrait">
   <img src="img/paul.jpg" alt="Paul" style="max-width:150px;">
 </div>
 
@@ -209,7 +459,7 @@ This track is aimed at students interested in advancing pathogen genomics throug
 
 #### Gregor M. Williams - Basic Research Scientist
 
-<div style="text-align:center;">
+<div class="cure-portrait">
   <img src="img/gregor.png" alt="Gregor" style="max-width:150px;">
 </div>
 
@@ -234,7 +484,7 @@ Gregor’s work in academic and research institute settings focuses on fundament
 
 #### Rosalind F. Brown - Applied Research Scientist
 
-<div style="text-align:center;">
+<div class="cure-portrait">
   <img src="img/rosalind.png" alt="Rosalind" style="max-width:150px;">
 </div>
 
@@ -266,7 +516,7 @@ Examples of professionals related to this track: Genomics and pathogen data scie
 
 #### Ravi  K. Sambasivan - Basic Research Scientist
 
-<div style="text-align:center;">
+<div class="cure-portrait">
   <img src="img/ravi.png" alt="Ravi" style="max-width:150px;">
 </div>
 
@@ -278,14 +528,19 @@ Examples of professionals related to this track: Genomics and pathogen data scie
 
 **Activities of current role**
 
--	Under development
+- Designing and conducting experiments to study fundamental biological mechanisms
+- Analyzing experimental and genomic data to test hypotheses and guide follow-up studies
+- Collaborating with microbiologists, geneticists, and computational scientists to interpret findings and develop new research questions
+- Writing grant proposals to support new and ongoing research
+- Preparing manuscripts for peer-reviewed journals and presenting findings at scientific meetings
+- Mentoring students who join the research team in experimental design, data interpretation, and scientific writing
 
 Ravi was inspired by the bugs around him and the role that they play in human health and diseases. His academic journey was in basic sciences with exposure to the role of viruses, bacteria and other pathogens with their role in human life. His experience in the undergrad research project on data analysis and subsequent PhD in genomics prepared to delve into the basic science of pathogens and their role in disease outbreak detection, surveillance and how it can lead to diagnostic and clinical interventions.
 
 
 #### Maulana A. Karim - Applied Research Scientist
 
-<div style="text-align:center;">
+<div class="cure-portrait">
   <img src="img/maulana.png" alt="Maulana" style="max-width:150px;">
 </div>
 
@@ -295,8 +550,12 @@ Ravi was inspired by the bugs around him and the role that they play in human he
 -	PhD in data sciences and genomics
 -	Undergraduate research project in data analysis
 
-Activities of current role
--	Under development
+**Activities of current role**
+- Developing bioinformatics workflows for pathogen sequence data generated in-house and obtained from public repositories
+- Standardizing sample records so datasets from different laboratories can be combined and compared
+- Testing analysis methods on reference datasets to compare accuracy, consistency, and processing time
+- Investigating discrepancies between computational results and laboratory findings with colleagues at the bench
+- Documenting workflows and reporting their performance to teams developing surveillance and diagnostic tools
 
 Maulana witnessed how COVID19 was tackled world-wide with the public and private healthcare sector come together to develop rapid diagnostic tests and surveillance of SARS-CoV-2 virus, the causative agent of the pandemic.  His basic training in data sciences and genomics with inroads to bacterial and viral sequence and data analysis led him to a role in industry. In industry he works with a team of wet and dry lab scientists to help develop novel methods of analyzing the huge of amount of pathogen data produced in-house and in public repositories.
 
@@ -306,207 +565,187 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
 
 ### Introduction and Overview — Designing a Wastewater Surveillance CURE: Module Outlines for Undergraduate Educators
 
-<iframe
-  src="https://docs.google.com/document/d/e/2PACX-1vS6htENXEJtPr4gxmTF9iV3qnJUyKaurQ_U6AnYMMT-qZvyaqap9kiTchTEN0HEWtuFd-A4gN45nAox/pub?embedded=true"
-  title="Designing a Wastewater Surveillance CURE: Module Outlines for Undergraduate Educators"
-  style="
-    display: block;
-    width: 100%;
-    height: 85vh;
-    height: 85dvh;
-    border: 1px solid #aaa;
-    box-sizing: border-box;
-  ">
-</iframe>
+<div class="cure-actions">
+  <a class="cure-doc-link"
+     href="https://docs.google.com/document/d/1MMof5lqChEHEbDdkbmO31msKr52BJMLQ-8NjGG-CJ4I/edit?usp=sharing"
+     target="_blank" rel="noopener"
+     aria-label="Access Google Doc for the Introduction and Overview (opens in a new tab)">Access Google Doc</a>
+</div>
 
-<a class="cure-doc-link"
-   href="https://docs.google.com/document/d/1MMof5lqChEHEbDdkbmO31msKr52BJMLQ-8NjGG-CJ4I/edit?usp=sharing"
-   target="_blank" rel="noopener"
-   aria-label="Access Google Doc for the Introduction and Overview (opens in a new tab)">Access Google Doc</a>
+<details class="cure-preview">
+  <summary>Preview the introduction and overview</summary>
+  <iframe class="cure-frame"
+    src="https://docs.google.com/document/d/e/2PACX-1vS6htENXEJtPr4gxmTF9iV3qnJUyKaurQ_U6AnYMMT-qZvyaqap9kiTchTEN0HEWtuFd-A4gN45nAox/pub?embedded=true"
+    title="Designing a Wastewater Surveillance CURE: Module Outlines for Undergraduate Educators"
+    loading="lazy">
+  </iframe>
+</details>
 
 ### Module 1 — Introduction to Pathogen Surveillance
 
-<iframe
-  src="https://docs.google.com/document/d/e/2PACX-1vT9OUnH6Ia7H5D7_lEDDxUWv25KSasc96dMyQrGgtZV3gkjqHwDjapa4bmC1SxFtFQsNNUMp5uuf11U/pub?embedded=true"
-  title="Module 1 — Introduction to Pathogen Surveillance"
-  style="
-    display: block;
-    width: 100%;
-    height: 85vh;
-    height: 85dvh;
-    border: 1px solid #aaa;
-    box-sizing: border-box;
-  ">
-</iframe>
+<div class="cure-actions">
+  <a class="cure-doc-link"
+     href="https://docs.google.com/document/d/1g6jW5FnAyXs6eP8OVQAsL-UrikNHBgN7zDB-Ews8FTw/edit?usp=sharing"
+     target="_blank" rel="noopener"
+     aria-label="Access Google Doc for Module 1 (opens in a new tab)">Access Google Doc</a>
+</div>
 
-<a class="cure-doc-link"
-   href="https://docs.google.com/document/d/1g6jW5FnAyXs6eP8OVQAsL-UrikNHBgN7zDB-Ews8FTw/edit?usp=sharing"
-   target="_blank" rel="noopener"
-   aria-label="Access Google Doc for Module 1 (opens in a new tab)">Access Google Doc</a>
+<details class="cure-preview">
+  <summary>Preview Module 1</summary>
+  <iframe class="cure-frame"
+    src="https://docs.google.com/document/d/e/2PACX-1vT9OUnH6Ia7H5D7_lEDDxUWv25KSasc96dMyQrGgtZV3gkjqHwDjapa4bmC1SxFtFQsNNUMp5uuf11U/pub?embedded=true"
+    title="Module 1 — Introduction to Pathogen Surveillance"
+    loading="lazy">
+  </iframe>
+</details>
 
 ### Module 2 — Research Design and Research Question Development
 
-<iframe
-  src="https://docs.google.com/document/d/e/2PACX-1vQmmnl-1Y781JbgyQqxbGbPcfujhGEaBV3uccKuIkXOjsIHO9YebbKD8w-hzbn056TfhRaO_G0TXKkj/pub?embedded=true"
-  title="Module 2 — Research Design and Research Question Development"
-  style="
-    display: block;
-    width: 100%;
-    height: 85vh;
-    height: 85dvh;
-    border: 1px solid #aaa;
-    box-sizing: border-box;
-  ">
-</iframe>
+<div class="cure-actions">
+  <a class="cure-doc-link"
+     href="https://docs.google.com/document/d/13lVEzb5706ETYlOEbqdEglLUClTCKG6cZ8pZ33bVtu4/edit?usp=sharing"
+     target="_blank" rel="noopener"
+     aria-label="Access Google Doc for Module 2 (opens in a new tab)">Access Google Doc</a>
+</div>
 
-<a class="cure-doc-link"
-   href="https://docs.google.com/document/d/13lVEzb5706ETYlOEbqdEglLUClTCKG6cZ8pZ33bVtu4/edit?usp=sharing"
-   target="_blank" rel="noopener"
-   aria-label="Access Google Doc for Module 2 (opens in a new tab)">Access Google Doc</a>
+<details class="cure-preview">
+  <summary>Preview Module 2</summary>
+  <iframe class="cure-frame"
+    src="https://docs.google.com/document/d/e/2PACX-1vQmmnl-1Y781JbgyQqxbGbPcfujhGEaBV3uccKuIkXOjsIHO9YebbKD8w-hzbn056TfhRaO_G0TXKkj/pub?embedded=true"
+    title="Module 2 — Research Design and Research Question Development"
+    loading="lazy">
+  </iframe>
+</details>
 
 ### Module 3 — Water Sample Preparation and Processing for Sequencing
 
-<iframe
-  src="https://docs.google.com/document/d/e/2PACX-1vT5C0Lqm1N_sFkaJBQBbjSbzMjqvvhDk3RPcB_Kh5TzXZpKnGlvPaU7DuM6N-wIjHz9ug79rAYkLnhr/pub?embedded=true"
-  title="Module 3 — Water Sample Preparation and Processing for Sequencing"
-  style="
-    display: block;
-    width: 100%;
-    height: 85vh;
-    height: 85dvh;
-    border: 1px solid #aaa;
-    box-sizing: border-box;
-  ">
-</iframe>
+<div class="cure-actions">
+  <a class="cure-doc-link"
+     href="https://docs.google.com/document/d/1O1oV1dMXnZUrTXCaS51qVh7RmQYliLSN-qH1gMN6DWc/edit?usp=sharing"
+     target="_blank" rel="noopener"
+     aria-label="Access Google Doc for Module 3 (opens in a new tab)">Access Google Doc</a>
+</div>
 
-<a class="cure-doc-link"
-   href="https://docs.google.com/document/d/1O1oV1dMXnZUrTXCaS51qVh7RmQYliLSN-qH1gMN6DWc/edit?usp=sharing"
-   target="_blank" rel="noopener"
-   aria-label="Access Google Doc for Module 3 (opens in a new tab)">Access Google Doc</a>
+<details class="cure-preview">
+  <summary>Preview Module 3</summary>
+  <iframe class="cure-frame"
+    src="https://docs.google.com/document/d/e/2PACX-1vT5C0Lqm1N_sFkaJBQBbjSbzMjqvvhDk3RPcB_Kh5TzXZpKnGlvPaU7DuM6N-wIjHz9ug79rAYkLnhr/pub?embedded=true"
+    title="Module 3 — Water Sample Preparation and Processing for Sequencing"
+    loading="lazy">
+  </iframe>
+</details>
 
 ### Module 4 — Bioinformatics Analyses
 
-<iframe
-  src="https://docs.google.com/document/d/e/2PACX-1vSXP2dyfoSzhZSRuaH_9ztWHWbJYy0J8NKQp94483j2SpAXsl2dilGDqFbMmG0e2AcVkWUPBrfvgExE/pub?embedded=true"
-  title="Module 4 — Bioinformatics Analyses"
-  style="
-    display: block;
-    width: 100%;
-    height: 85vh;
-    height: 85dvh;
-    border: 1px solid #aaa;
-    box-sizing: border-box;
-  ">
-</iframe>
+<div class="cure-actions">
+  <a class="cure-doc-link"
+     href="https://docs.google.com/document/d/1EOzWrjlHuGosFmoB6QrI69NfGacaUNdoChUYIHocfoY/edit?usp=sharing"
+     target="_blank" rel="noopener"
+     aria-label="Access Google Doc for Module 4 (opens in a new tab)">Access Google Doc</a>
+</div>
 
-<a class="cure-doc-link"
-   href="https://docs.google.com/document/d/1EOzWrjlHuGosFmoB6QrI69NfGacaUNdoChUYIHocfoY/edit?usp=sharing"
-   target="_blank" rel="noopener"
-   aria-label="Access Google Doc for Module 4 (opens in a new tab)">Access Google Doc</a>
+<details class="cure-preview">
+  <summary>Preview Module 4</summary>
+  <iframe class="cure-frame"
+    src="https://docs.google.com/document/d/e/2PACX-1vSXP2dyfoSzhZSRuaH_9ztWHWbJYy0J8NKQp94483j2SpAXsl2dilGDqFbMmG0e2AcVkWUPBrfvgExE/pub?embedded=true"
+    title="Module 4 — Bioinformatics Analyses"
+    loading="lazy">
+  </iframe>
+</details>
 
 ### Module 5 — Data Analysis and Interpretation
 
-<iframe
-  src="https://docs.google.com/document/d/e/2PACX-1vSjlasneSRQkpoLl5oOolSxdE8pt-niKL-HndqysKnd0o5UQsGbv34C2WJs6yR6NY7Qn8s8U3ZpXdti/pub?embedded=true"
-  title="Module 5 — Data Analysis and Interpretation"
-  style="
-    display: block;
-    width: 100%;
-    height: 85vh;
-    height: 85dvh;
-    border: 1px solid #aaa;
-    box-sizing: border-box;
-  ">
-</iframe>
+<div class="cure-actions">
+  <a class="cure-doc-link"
+     href="https://docs.google.com/document/d/1hha2HqbMoPeUpVwBeJ8bESatjQwPw4Xtgj0Bsm2T1Do/edit?usp=sharing"
+     target="_blank" rel="noopener"
+     aria-label="Access Google Doc for Module 5 (opens in a new tab)">Access Google Doc</a>
+</div>
 
-<a class="cure-doc-link"
-   href="https://docs.google.com/document/d/1hha2HqbMoPeUpVwBeJ8bESatjQwPw4Xtgj0Bsm2T1Do/edit?usp=sharing"
-   target="_blank" rel="noopener"
-   aria-label="Access Google Doc for Module 5 (opens in a new tab)">Access Google Doc</a>
+<details class="cure-preview">
+  <summary>Preview Module 5</summary>
+  <iframe class="cure-frame"
+    src="https://docs.google.com/document/d/e/2PACX-1vSjlasneSRQkpoLl5oOolSxdE8pt-niKL-HndqysKnd0o5UQsGbv34C2WJs6yR6NY7Qn8s8U3ZpXdti/pub?embedded=true"
+    title="Module 5 — Data Analysis and Interpretation"
+    loading="lazy">
+  </iframe>
+</details>
 
 ### Module 6 — Scientific Communication and Data Dissemination
 
-<iframe
-  src="https://docs.google.com/document/d/e/2PACX-1vTcbDaw_7cn4mj5xEslGZ_WRAuvx8MkYU0BkM461Ww0wBkIlJjVfrC91SNUCUtDqYt2cFVpNb65Nq7z/pub?embedded=true"
-  title="Module 6 — Scientific Communication and Data Dissemination"
-  style="
-    display: block;
-    width: 100%;
-    height: 85vh;
-    height: 85dvh;
-    border: 1px solid #aaa;
-    box-sizing: border-box;
-  ">
-</iframe>
+<div class="cure-actions">
+  <a class="cure-doc-link"
+     href="https://docs.google.com/document/d/12tBYAZdlooCFcPJ1TI6WQbQNfAS9emuHNcrdCLHK2es/edit?usp=sharing"
+     target="_blank" rel="noopener"
+     aria-label="Access Google Doc for Module 6 (opens in a new tab)">Access Google Doc</a>
+</div>
 
-<a class="cure-doc-link"
-   href="https://docs.google.com/document/d/12tBYAZdlooCFcPJ1TI6WQbQNfAS9emuHNcrdCLHK2es/edit?usp=sharing"
-   target="_blank" rel="noopener"
-   aria-label="Access Google Doc for Module 6 (opens in a new tab)">Access Google Doc</a>
+<details class="cure-preview">
+  <summary>Preview Module 6</summary>
+  <iframe class="cure-frame"
+    src="https://docs.google.com/document/d/e/2PACX-1vTcbDaw_7cn4mj5xEslGZ_WRAuvx8MkYU0BkM461Ww0wBkIlJjVfrC91SNUCUtDqYt2cFVpNb65Nq7z/pub?embedded=true"
+    title="Module 6 — Scientific Communication and Data Dissemination"
+    loading="lazy">
+  </iframe>
+</details>
 
 ### Supplementary Overarching Learning Outcomes and Notes on AI and Assessment
 
-<iframe
-  src="https://docs.google.com/document/d/e/2PACX-1vQn-CQUNve_fcj5-Q3fKtmalmuvrigDOLfK-UeB2MW5Ok95SMGHdRxExgeDvGiLNERXCVJXYdBTH9HT/pub?embedded=true"
-  title="Supplementary Overarching Learning Outcomes and Notes on AI and Assessment"
-  style="
-    display: block;
-    width: 100%;
-    height: 85vh;
-    height: 85dvh;
-    border: 1px solid #aaa;
-    box-sizing: border-box;
-  ">
-</iframe>
+<div class="cure-actions">
+  <a class="cure-doc-link"
+     href="https://docs.google.com/document/d/11rUlfoq1pHBN_UpWAEA6XYOYsO9GTbInHoIxy_WoWTE/edit?usp=sharing"
+     target="_blank" rel="noopener"
+     aria-label="Access Google Doc for Supplementary Learning Outcomes and AI Assessment (opens in a new tab)">Access Google Doc</a>
+</div>
 
-<a class="cure-doc-link"
-   href="https://docs.google.com/document/d/11rUlfoq1pHBN_UpWAEA6XYOYsO9GTbInHoIxy_WoWTE/edit?usp=sharing"
-   target="_blank" rel="noopener"
-   aria-label="Access Google Doc for Supplementary Learning Outcomes and AI Assessment (opens in a new tab)">Access Google Doc</a>
+<details class="cure-preview">
+  <summary>Preview the supplementary materials</summary>
+  <iframe class="cure-frame"
+    src="https://docs.google.com/document/d/e/2PACX-1vQn-CQUNve_fcj5-Q3fKtmalmuvrigDOLfK-UeB2MW5Ok95SMGHdRxExgeDvGiLNERXCVJXYdBTH9HT/pub?embedded=true"
+    title="Supplementary Overarching Learning Outcomes and Notes on AI and Assessment"
+    loading="lazy">
+  </iframe>
+</details>
 
 ### Glossary
 
-<iframe
-  src="https://docs.google.com/document/d/e/2PACX-1vTyjsvD5Vz1lLwnr2btOQxD5mqzkXCQDtVTLdQCVMUAN-lOn7g97pL6KWCjflNa6UUEFUhTK02dIMFT/pub?embedded=true"
-  title="Glossary"
-  style="
-    display: block;
-    width: 100%;
-    height: 85vh;
-    height: 85dvh;
-    border: 1px solid #aaa;
-    box-sizing: border-box;
-  ">
-</iframe>
+<div class="cure-actions">
+  <a class="cure-doc-link"
+     href="https://docs.google.com/document/d/1elxXqMHlRZOQ9NCpGQsgL_phDfL13QXG7XB3Qv6ELdQ/edit?usp=sharing"
+     target="_blank" rel="noopener"
+     aria-label="Access Google Doc for the Glossary (opens in a new tab)">Access Google Doc</a>
+</div>
 
-<a class="cure-doc-link"
-   href="https://docs.google.com/document/d/1elxXqMHlRZOQ9NCpGQsgL_phDfL13QXG7XB3Qv6ELdQ/edit?usp=sharing"
-   target="_blank" rel="noopener"
-   aria-label="Access Google Doc for the Glossary (opens in a new tab)">Access Google Doc</a>
+<details class="cure-preview">
+  <summary>Preview the glossary</summary>
+  <iframe class="cure-frame"
+    src="https://docs.google.com/document/d/e/2PACX-1vTyjsvD5Vz1lLwnr2btOQxD5mqzkXCQDtVTLdQCVMUAN-lOn7g97pL6KWCjflNa6UUEFUhTK02dIMFT/pub?embedded=true"
+    title="Glossary"
+    loading="lazy">
+  </iframe>
+</details>
 
 ### Laboratory, Field Collection, and Publication Resources
 
-<iframe
-  src="https://docs.google.com/document/d/e/2PACX-1vQI8Y22k8jtjbd6TQpWkfCG68k9yeg72bKE-VDb0ojUi6702wMAGpi96jr6R5EGCRgHAApS7YOCOIKu/pub?embedded=true"
-  title="Laboratory, Field Collection, and Publication Resources"
-  style="
-    display: block;
-    width: 100%;
-    height: 85vh;
-    height: 85dvh;
-    border: 1px solid #aaa;
-    box-sizing: border-box;
-  ">
-</iframe>
+<div class="cure-actions">
+  <a class="cure-doc-link"
+     href="https://docs.google.com/document/d/1Y_Lj1AGql_lJbE5xBCxZuck0suhY3YIgLTFP8FIkgco/edit?usp=sharing"
+     target="_blank" rel="noopener"
+     aria-label="Access Google Doc for Laboratory, Field Collection, and Publication Resources (opens in a new tab)">Access Google Doc</a>
+</div>
 
-<a class="cure-doc-link"
-   href="https://docs.google.com/document/d/1Y_Lj1AGql_lJbE5xBCxZuck0suhY3YIgLTFP8FIkgco/edit?usp=sharing"
-   target="_blank" rel="noopener"
-   aria-label="Access Google Doc for Laboratory, Field Collection, and Publication Resources (opens in a new tab)">Access Google Doc</a>
+<details class="cure-preview">
+  <summary>Preview the resources</summary>
+  <iframe class="cure-frame"
+    src="https://docs.google.com/document/d/e/2PACX-1vQI8Y22k8jtjbd6TQpWkfCG68k9yeg72bKE-VDb0ojUi6702wMAGpi96jr6R5EGCRgHAApS7YOCOIKu/pub?embedded=true"
+    title="Laboratory, Field Collection, and Publication Resources"
+    loading="lazy">
+  </iframe>
+</details>
 
 ### Authors, Affiliations, and Reuse
 
-During the comment period, this material is open but not officially licensed for reuse. For questions or to collaborate please contract [Jason Williams](mailto:williams@cshl.edu).
+During the comment period, this material is open but not officially licensed for reuse. For questions or to collaborate please contact [Jason Williams](mailto:williams@cshl.edu).
 
 - Anna Maria Niewiadomska, Oxford Nanopore Technologies
 - Athina	Gavriilidou, University of Lausanne
