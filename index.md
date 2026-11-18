@@ -256,8 +256,8 @@ a.cure-survey-link:hover {
   <div class="cure-contents-group">
     <p><strong>Project</strong></p>
     <ul>
-      <li><a href="#the-goal">The goal</a></li>
-      <li><a href="#about-the-workshop">About the workshop</a></li>
+      <li><a href="#the-goal">The Goal</a></li>
+      <li><a href="#about-the-workshop">About the Workshop</a></li>
       <li><a href="#authors-affiliations-and-reuse">Authors, Affiliations, and Reuse</a></li>
     </ul>
   </div>
@@ -311,60 +311,59 @@ a.cure-survey-link:hover {
   </div>
 </nav>
 
-## The goal
+## The Goal
 
-Advances in genomics, bioinformatics, artificial intelligence, and data-intensive approaches are transforming how we study pathogens, monitor infectious diseases, develop diagnostics, support clinical decision-making, and respond to public health challenges. At the same time, the infectious disease workforce is highly diverse, spanning clinical care, public health, surveillance, biotechnology, pharmaceutical development, laboratory science, data science, and research. As technologies evolve, educators face an important question: **What knowledge, skills, and abilities should learners develop to prepare them for success in these rapidly changing fields?**
+Advances in genomics, bioinformatics, artificial intelligence (AI), and data science are changing how professionals study pathogens, diagnose infectious diseases, and respond to public health threats. **What knowledge, skills, and abilities should learners develop to work effectively in these fields?**
 
-The goal of this project is to develop a community-informed framework of workforce competencies that describes the capabilities needed for competent practice in pathogen-related careers. These competencies are not intended to represent the requirements of a single course or degree program. Rather, they provide a shared language that educators, trainers, employers, researchers, and workforce development organizations can use to discuss learning goals, identify gaps, align curricula, and guide the design of educational experiences.
+The Pathogen Data Network (PDN) is developing a community-informed framework of workforce competencies for pathogen-related careers. Educators, trainers, employers, and researchers can use it to identify learning goals, assess gaps, and align curricula. These competencies span professional practice and may require development across courses, training programs, and workplace experience.
 
-Because the infectious disease workforce encompasses many different career pathways, we have also developed a set of **personas** that represent broad categories of professionals. These personas help identify where a competency may be most relevant without implying that every competency is equally important for every role. The personas are intended to support curriculum planning, workforce alignment, and discussion among stakeholders while recognizing that many professionals work across traditional boundaries and may require competencies associated with multiple personas.
+Career personas illustrate how professionals apply these competencies in different roles. Their alignments identify areas requiring particular proficiency or emphasis. Professionals may work across trajectories, and competencies remain relevant to roles beyond those listed.
 
-In parallel with the competency framework, this project presents a series of modular **Course-based Undergraduate Research Experience (CURE)** curriculum outlines. These modules are designed to provide flexible pathways for integrating pathogen data, genomics, bioinformatics, artificial intelligence, ethics, and workforce preparation into undergraduate education. Each module identifies the competencies it supports and provides guidance for how educators can incorporate authentic research experiences into their courses. The draft modules provide practical examples of how the competency framework can be translated into educational practice.
+Six CURE module outlines show how educators can connect the competencies to undergraduate research using wastewater surveillance as a shared context. Each outline identifies learning outcomes, competency alignments, suggested activities, and evidence of learning.
 
 <aside class="cure-review" aria-label="Community review">
   <p><strong>Community review</strong></p>
-  <p>We invite educators, researchers, clinicians, public health professionals, industry partners, workforce development leaders, and other stakeholders to review these drafts. The survey collects feedback on the competencies and their alignment with career roles. The <strong>Access Google Doc</strong> buttons open the module outlines and comments and ratings can be entered in the Feedback survey.</p>
-  <p><a href="#feedback">Feedback Survey</a></p>
+  <p>We invite feedback on the draft competencies and CURE modules. Use the <strong>Access Google Doc</strong> buttons to read the module outlines, then submit comments and ratings through the <a href="#feedback">feedback survey</a>.</p>
 </aside>
 
-## About the workshop
+## About the Workshop
 
-The PDN CUREs Workshop was held March 23–25, 2026, at Cold Spring Harbor Laboratory in New York, USA, to support the development of curriculum resources and competencies for the education and training of the infectious-disease workforce. The workshop was developed in response to growing demand for educational materials that prepare students for careers involving infectious disease research, public health, laboratory science, bioinformatics, and related fields.
-The workshop was announced internationally and attracted more than 100 applicants. A competitive cohort of educators, researchers, bioinformaticians, public health specialists, and industry representatives was selected to participate. Attendees represented a broad range of expertise, including microbiology, genomics, One Health, bioinformatics, undergraduate education, workforce training, and laboratory operations.
+The PDN CUREs Workshop was held March 23–25, 2026, at Cold Spring Harbor Laboratory in New York, USA. Participants developed curriculum resources and workforce competencies for careers involving infectious disease research, public health, laboratory science, and bioinformatics.
 
-The workshop brought together participants from universities, community colleges, research institutes, public health-oriented organizations, industry, and international training programs. These broad perspectives were essential for ensuring that resulting materials would be relevant across multiple career paths and educational settings, including undergraduate education, workforce training, clinical and public health contexts, and laboratory research.
+Announced internationally, the workshop attracted more than 100 applicants. Participants were selected through a competitive application process and represented universities, community colleges, research institutes, public health organizations, and industry. Their expertise included microbiology, genomics, One Health, bioinformatics, undergraduate education, workforce training, and laboratory operations.
 
-### Rationale for undergraduate training
+### Rationale for Undergraduate Training
 
-Although NIH's emphasis on trainee preparation generally targets the graduate level, choosing undergraduate education as the baseline provides several advantages. Focusing on introductory experiences allowed participants to develop materials that support many future career pathways, including clinical care, diagnostics, public health, surveillance, biotechnology, pharmaceutical and applied research, and basic research. Course-based Undergraduate Research Experiences (CUREs) provide an evidence-based and highly effective model for building the foundational skills, competencies, and habits of mind needed for infectious disease careers.
+Undergraduate education provides a starting point for developing capabilities relevant to infectious disease careers. CUREs give students opportunities to develop research skills through authentic scientific investigation.
 
-Undergraduate-focused resources can also engage students outside elite research institutions, including at community colleges, regional public universities, rural institutions, and other settings that may have fewer resources. This is especially important because future workforce needs will require talent from a much wider range of educational backgrounds and geographic regions.
-The resulting competency framework serves as a foundation for learners at later career stages. Graduate students, postdoctoral fellows, clinical laboratory personnel, public health professionals, and other advanced learners can also benefit from the competency framework and modular training resources developed through this effort.
+Adaptable undergraduate resources can broaden access to research experiences across institutions with different facilities, staffing, and course structures, including community colleges, regional public universities, and rural institutions.
+
+The framework can also guide graduate and postdoctoral training, clinical and public health education, and continuing professional development.
 
 ## Feedback
 
-The Pathogen Data Network invites undergraduate educators and colleagues in research, public health, clinical and diagnostic laboratories, industry, workforce development, and related fields to review the draft workforce competencies and course-based undergraduate research experience (CURE) module outlines.
+The Pathogen Data Network invites undergraduate educators and colleagues in research, public health, clinical and diagnostic laboratories, industry, workforce development, and related fields to review the draft workforce competencies and CURE module outlines.
 
 **The survey is the primary way to provide feedback.** Choose one competency or one module per submission. You can return to the survey to review additional items.
 
 <div class="cure-actions" style="flex-direction: column; align-items: center; text-align: center;">
   <a class="cure-survey-link" href="https://www.surveymonkey.com/r/pdn-workforce-competencies-and-cures-review"
-     target="_blank" rel="noopener">Provide feedback on the Competencies and/or CURE modules</a>
+     target="_blank" rel="noopener">Provide feedback on the competencies and CURE modules</a>
 </div>
 
-### Review a workforce competency
+### Review a Workforce Competency
 
 A competency describes an observable ability to bring knowledge, skills, values, and attitudes together in practice [1]. The draft competencies describe what people need to be able to do across infectious disease career pathways. Educators and trainers can use them to decide which abilities to develop and assess in their programs.
 
-Allow **5–10 minutes** per competency. Anyone can comment on the wording. If you work in an infectious disease–related role, start with a competency that matters to your work. First, check whether the wording clearly and unambiguously describes what someone should be able to do. Then consider which career pathways the competency is relevant to and where students could develop it in the CURE modules.
+Allow **5–10 minutes** per competency. Anyone can comment on the wording. If you work in an infectious disease–related role, start with a competency that matters to your work. First, check whether the wording clearly and unambiguously describes what someone should be able to do. Then consider which career roles require particular proficiency in the competency and which CURE learning outcomes support its development.
 
-### Review a CURE module
+### Review a CURE Module
 
-The six wastewater surveillance outlines give undergraduate educators a starting point for designing a new research course or refining an existing one. Each outline identifies core activities, sets learning outcomes, and suggests ways to teach and assess them. A learning outcome states what students should be able to demonstrate by the end of a module. It helps instructors choose activities and decide what student work would serve as evidence of learning.
+The six wastewater surveillance outlines give undergraduate educators a starting point for designing a new research course or refining an existing one. Each outline identifies core activities and learning outcomes and suggests ways to teach and assess them. A learning outcome states what students should be able to demonstrate by the end of a module. It helps instructors choose activities and decide what student work would serve as evidence of learning.
 
 Allow **30–40 minutes** for a complete module review. Undergraduate instructors and course designers are especially well placed to judge whether the learning outcomes are appropriate for students and whether the suggested activities and assessments support them. Anyone can comment. We particularly encourage wastewater surveillance professionals to comment on how the outlines reflect the work in practice.
 
-### Collaborate on a publication
+### Collaborate on a Publication
 
 We welcome collaborators who want to provide extensive feedback, pilot the competencies or CURE modules in their own teaching, or both. We plan to submit a manuscript presenting the competencies and module outlines to a peer-reviewed journal. If you would like to contribute to the work and discuss potential co-authorship, use the interest form to tell us how you would like to participate.
 
@@ -376,34 +375,27 @@ We welcome collaborators who want to provide extensive feedback, pilot the compe
 
 ## Competencies Working Group
 
-The Competencies Working Group focused on defining the broad competencies needed for future success in pathogen-related fields. Participants emphasized that competencies should be appropriate for undergraduate learners while remaining relevant to workforce needs.
+The Competencies Working Group identified capabilities needed for pathogen-related careers and considered how undergraduate education could introduce them and support progression toward professional practice.
 
-The group initially assembled more than 100 competency ideas spanning laboratory skills, project management, bioinformatics, ethics, data analysis, and professional skills. Participants agreed that these should eventually be refined into a smaller, more manageable set of approximately 30 high-level competencies.
+The group refined more than 100 initial ideas into the draft competency framework presented below, organized into six categories:
 
-Key competency domains identified by the group included:
-
-- Core project and teamwork skills
-- Experimental design and project management
-- Pathogen biology and microbiology
-- Laboratory and sequencing methods
-- Bioinformatics and data analysis
-- Statistics and interpretation
-- Artificial intelligence, automation, and responsible use of AI tools
-- Ethics, privacy, and trust
-- Communication and science communication
-- Career-spanning learning and workforce readiness
+- Core Collaborative
+- Project and Experimentation Design and Management
+- Microbiology and Molecular Biology
+- Analysis, Data, and AI
+- Ethics, Compliance, Communication, and Trust
+- Career-Spanning Learning
 
 ### Draft Competencies
 
-This chart has the following features:
+This table contains the following columns:
 
-- **Category**: This is the major grouping for a set of competencies and the defining characteristics shared by competencies within that group. For example, *Core Collaborative* includes the core (sometimes called "soft") skills needed for effective collaboration and teamwork.
-- **#**: Our numbering of the competency.
-- **Heading**: A short title that captures the essence of the competency.
-- **Competency**: A set of knowledge, skills, and abilities that represent what a competent practitioner should be able to do. While no single course, undergraduate or otherwise, may be sufficient to achieve competency, the overall curriculum or course of training should aim to enable a learner to achieve the stated competency.
-- **CURE matching alignment**: These are the designations of modular curriculum outlines that this group is developing and that address the indicated competency.
-- **CURE persona alignment**: These are the personas for which the listed competency will typically be most relevant.
-
+- **Category**: The competency's grouping and scope.
+- **#**: The competency's reference number.
+- **Heading**: A short title for the competency.
+- **Competency**: A statement of what a practitioner should be able to demonstrate. Courses contribute to its development. Full proficiency may require further education and experience.
+- **CURE module alignment**: Modules whose learning outcomes contribute to the competency.
+- **Career persona alignment**: Roles for which the competency warrants particular proficiency or emphasis. An omitted role may still require the competency.
 
 <iframe class="cure-frame cure-sheet"
   src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZhqQHS7-tPcvQqtTkTi9wd3-GsQsBjUr4y-V5y2H05rNrC8_fmR0FPW8qQ4txwNBtohsoq64TbaVT/pubhtml?gid=92281840&amp;single=true&amp;widget=true&amp;headers=false"
@@ -416,11 +408,11 @@ This chart has the following features:
 </div>
 
 
-## Career track personas
+## Career Track Personas
 
 These personas illustrate possible combinations of education, experience, and professional responsibilities. People in similar roles may follow different training routes or work across more than one trajectory.
 
-The career persona alignment labels identify roles that warrant a high level of proficiency or emphasis in each competency. Within this framework, **Research (Basic)** includes academic research and bioinformatics support in academic core facilities. **Research (Applied)** covers pharmaceutical research and clinical testing development, including fundamental research conducted within pharmaceutical discovery programs. The research labels reflect each persona’s primary professional context and the purpose of their programme. Basic and applied research can occur across academic, public-sector, and commercial settings.
+The career persona alignment labels identify roles that warrant a high level of proficiency or emphasis in each competency. Within this framework, **Research (Basic)** includes academic research and bioinformatics support in academic core facilities. **Research (Applied)** covers pharmaceutical research and clinical testing development, including fundamental research conducted within pharmaceutical discovery programs. The research labels reflect each persona’s primary professional context and the purpose of their program. Basic and applied research can occur across academic, public-sector, and commercial settings.
 
 | Alignment label | Associated persona | Primary work context |
 |---|---|---|
@@ -436,25 +428,25 @@ The optional **Lab** and **Computational** modifiers indicate where particular e
 
 ### Healthcare Track (Public Health Professional / Physician)
 
-This track is designed for students interested in applying pathogen genomics in healthcare and public health settings. It brings together perspectives from public health and clinical care, focusing on how genomic data can inform disease surveillance, diagnostics, and patient care. It focuses on exploring how pathogen data moves from laboratory generation to real-world decision-making, developing skills to interpret and communicate findings in ways that support outbreak response, healthcare systems, and community health outcomes.
+This track concerns the use of pathogen genomics in patient care and public health. It emphasizes interpreting laboratory evidence, integrating it with clinical or population data, and communicating findings to support diagnosis, treatment, surveillance, and outbreak response.
 
-Examples of professionals related to this track: policy-makers, epidemiologists, data modeling analysts, physicians, nurses, allied health professionals, clinical scientists, laboratory scientists, among others.
+Related roles include policymakers, epidemiologists, public health data analysts, physicians, nurses, allied health professionals, clinical scientists, and laboratory scientists.
 
-#### Florence N. Smith - Public Health Professional
+<h4 id="florence-n-smith---public-health-professional">Florence N. Smith — Public Health Professional</h4>
 
 <div class="cure-portrait">
   <img src="img/florence.jpg" alt="Florence" style="max-width:150px;">
 </div>
 
-**Qualification and background**
+**Qualifications and background**
 
-- BSc in Nursing
-- MSc in Global Health
+- BSc in nursing
+- MSc in global health
 - Field internship at the Ministry of Health
 
 Florence's academic path began with an interest in community health and disease prevention. Through her nursing education, postgraduate training, and professional experience, she developed skills in epidemiology and biostatistics, alongside a growing awareness of infectious disease dynamics. Exposure to outbreak investigations and surveillance programs sparked an interest in integrating genomic data into public health decision-making. Her training increasingly combined traditional epidemiology with data analysis and interpretation of pathogen genomics.
 
-**Activities of current role**
+**Current responsibilities**
 
 - Monitoring infectious disease trends through surveillance systems
 - Analyzing epidemiological data and interpreting genomic surveillance findings with laboratory and bioinformatics colleagues
@@ -466,107 +458,103 @@ Florence's academic path began with an interest in community health and disease 
 Florence’s work within the Ministry of Health supports the integration of pathogen genomics into routine surveillance. Her work focuses on translating complex datasets into actionable insights that inform public health responses and preparedness strategies.
 
 
-#### Paul E. Johnson — Infectious Disease Physician–Scientist
+<h4 id="paul-e-johnson--infectious-disease-physicianscientist">Paul E. Johnson — Infectious Disease Physician–Scientist</h4>
 
 <div class="cure-portrait">
   <img src="img/paul.jpg" alt="Paul" style="max-width:150px;">
 </div>
 
-**Qualification and background**
+**Qualifications and background**
 
 - MD, with initial training and practice as a general practitioner
 - PhD in immunology
 - Additional specialist training and practice in infectious diseases following a period in general practice
 - Continuing professional development in genomics and its applications to diagnosis and treatment
 
-Paul completed his medical and doctoral training before genomics became widely used in clinical practice. He began his career as a general practitioner and developed an interest in infectious disease through patient care and immunology research. A mid-career transition into an infectious disease specialty brought these interests together. Paul has developed a basic understanding of genomics and continues to expand his knowledge through self-directed learning and collaboration with specialists. He increasingly uses genomic information to inform clinical decisions and supervises research students developing new approaches, including artificial intelligence and machine learning methods.
+Paul completed his medical and doctoral training before genomics became widely used in clinical practice. He began his career as a general practitioner and developed an interest in infectious disease through patient care and immunology research. A mid-career transition into an infectious disease specialty brought these interests together. Paul has developed a basic understanding of genomics and continues to expand his knowledge through self-directed learning and collaboration with specialists. He increasingly uses genomic information to inform clinical decisions and co-supervises research students developing new approaches, including AI and machine learning (ML) methods.
 
-**Activities of current role**
+**Current responsibilities**
 
 Paul is a senior physician–scientist who devotes approximately 80% of his time to patient care and 20% to co-supervising a research laboratory.
 
-- Providing bedside care for patients with infectious diseases, including diagnosis, treatment, and follow-up.
-- Using genomic findings alongside clinical observations and other laboratory results to inform diagnosis and treatment.
-- Collaborating with laboratory and computational specialists to interpret genomic evidence and understand its limitations.
-- Co-supervising research that connects immunology and infectious disease with questions arising from clinical practice.
-- Contributing clinical and immunological expertise to student projects co-supervised with genomics and AI/ML specialists.
-- Updating his knowledge of genomics and emerging analytical methods to support patient care and research supervision.
+- Providing bedside care for patients with infectious diseases, including diagnosis, treatment, and follow-up
+- Using genomic findings alongside clinical observations and other laboratory results to inform diagnosis and treatment
+- Collaborating with laboratory and computational specialists to interpret genomic evidence and understand its limitations
+- Co-supervising research that connects immunology and infectious disease with questions arising from clinical practice
+- Contributing clinical and immunological expertise to student projects co-supervised with genomics and AI/ML specialists
+- Updating his knowledge of genomics and emerging analytical methods to support patient care and research supervision
 
 ### Research Track (Academia and Industry)
 
-This track is aimed at students interested in advancing pathogen genomics through research and innovation. It combines foundational biological inquiry with practical, data-driven approaches, spanning both basic and applied science. It focuses on engaging with questions about pathogen biology, evolution, and function, while also developing computational and analytical skills to work with genomic data. The track encourages students to explore how research discoveries can be translated into tools, methods, and knowledge that strengthen our understanding and management of infectious diseases.
-
 Research roles span academic laboratories, genomics core facilities, pharmaceutical discovery programs, and clinical testing services. Researchers investigate fundamental biological mechanisms, develop analytical methods, and generate evidence that may support new diagnostics and therapies. The balance between discovery and application varies across projects and roles.
 
-Pathogen genomics in industry settings brings together perspectives from public health and clinical science, focusing on how genomics and real world data can inform disease surveillance, diagnostics, and patient care. It focuses on exploring how pathogen data in industrial settings leads to real-world decision-making, developing skills to interpret and communicate findings in ways that support diagnostic test development, outbreak response, healthcare systems, and community health outcomes.
+Related roles include laboratory researchers, bioinformaticians, pharmaceutical discovery scientists, and diagnostic method developers.
 
-Examples of professionals related to this track: Genomics and pathogen data scientists with varied backgrounds actively involved in analyzing real world data for pathogen surveillance, develop diagnostic tools to detect novel pathogens and outbreaks.
-
-#### Gregor M. Williams - Basic Research Scientist (Academic lab)
+<h4 id="gregor-m-williams---basic-research-scientist-academic-lab">Gregor M. Williams — Basic Research Scientist (Academic lab)</h4>
 
 <div class="cure-portrait">
   <img src="img/gregor.png" alt="Gregor" style="max-width:150px;">
 </div>
 
-**Qualification and background**
+**Qualifications and background**
 
--	BSc in Genetics
--	PhD in Microbial Genetics
--	Undergraduate research project in pathogen drug resistance
+- BSc in genetics
+- PhD in microbial genetics
+- Undergraduate research project in pathogen drug resistance
 
 Gregor’s academic journey was driven by curiosity about how pathogens function and evolve. During undergraduate training, he gained experience in laboratory experimentation and theoretical concepts such as gene regulation, mutation, and host–pathogen interactions. An undergraduate research project on pathogen drug resistance led him to pursue a PhD in microbial genetics. He now investigates how genetic variation affects pathogen biology.
 
-**Activities of current role**
+**Current responsibilities**
 
--	Designing and conducting experiments on pathogen systems
--	Analysing genomic and molecular datasets
--	Investigating mutations and their functional impact
--	Collaborating with interdisciplinary research teams
+- Designing and conducting experiments on pathogen systems
+- Analyzing genomic and molecular datasets
+- Investigating mutations and their functional impact
+- Collaborating with interdisciplinary research teams
 
 Gregor’s work in academic and research institute settings focuses on fundamental questions in pathogen biology. His work contributes to the broader scientific understanding that underpins advances in diagnostics, therapeutics, and surveillance.
 
 
-#### Rosalind F. Brown - Bioinformatician (Academic genomics core facility)
+<h4 id="rosalind-f-brown---bioinformatician-academic-genomics-core-facility">Rosalind F. Brown — Bioinformatician (Academic genomics core facility)</h4>
 
 <div class="cure-portrait">
   <img src="img/rosalind.png" alt="Rosalind" style="max-width:150px;">
 </div>
 
-**Qualification and background**
+**Qualifications and background**
 
--	BSc in Computational Biology
--	MSc in Genomics
--	Undergraduate experience in coding (e.g., Python/R) and data analysis
+- BSc in computational biology
+- MSc in genomics
+- Undergraduate experience in coding (e.g., Python/R) and data analysis
 
 Rosalind’s background is interdisciplinary, combining an interest in biology with computational problem-solving. During her studies, she developed skills in programming, statistics, and data analysis, often applied to biological questions. Exposure to genomics datasets and sequencing technologies led her to focus on developing tools and workflows for analyzing pathogen data.
 
-**Activities of current role**
+**Current responsibilities**
 
 - Consulting with research groups on study design, data quality, and appropriate analysis methods
--	Developing and running bioinformatics pipelines
--	Performing genome assembly, annotation, and quality control
--	Managing datasets using FAIR principles
--	Creating reproducible workflows and documentation
--	Collaborating with laboratory and public health teams
--	Supporting tool development and data integration
-- Explaining analysis results and limitations, and helping researchers use documented workflows
+- Developing and running bioinformatics pipelines
+- Performing genome assembly, annotation, and quality control
+- Managing datasets using Findable, Accessible, Interoperable, and Reusable (FAIR) principles
+- Creating reproducible workflows and documentation
+- Collaborating with laboratory and public health teams
+- Supporting tool development and data integration
+- Explaining analysis results and limitations and helping researchers use documented workflows
 
 Rosalind supports research groups investigating fundamental questions in pathogen biology through a shared academic genomics core facility. She helps teams plan analyses, interpret findings, and produce reproducible data and methods.
 
 
-#### Ravi K. Sambasivan - Basic Research Scientist (Pharmaceutical research campus)
+<h4 id="ravi-k-sambasivan---basic-research-scientist-pharmaceutical-research-campus">Ravi K. Sambasivan — Basic Research Scientist (Pharmaceutical research campus)</h4>
 
 <div class="cure-portrait">
   <img src="img/ravi.png" alt="Ravi" style="max-width:150px;">
 </div>
 
-**Qualification and background**
+**Qualifications and background**
 
--	BSc in physical, biological or chemical sciences with exposure to data analysis
--	PhD in microbial genetics
--	Undergraduate research project in pathogen drug resistance
+- BSc in physical, biological, or chemical sciences with exposure to data analysis
+- PhD in microbial genetics
+- Undergraduate research project in pathogen drug resistance
 
-**Activities of current role**
+**Current responsibilities**
 
 - Designing and conducting experiments to study fundamental biological mechanisms
 - Analyzing experimental and genomic data to test hypotheses and guide follow-up studies
@@ -575,23 +563,22 @@ Rosalind supports research groups investigating fundamental questions in pathoge
 - Preparing manuscripts for peer-reviewed journals and presenting findings at scientific meetings
 - Mentoring research staff, interns, and collaborating students in experimental design, data interpretation, and scientific writing
 
-Ravi studies fundamental mechanisms of pathogen growth, survival, and interactions with hosts within a pharmaceutical research program. His background in microbial genetics and data analysis supports experiments that explain pathogen function and may inform future therapeutic research. Ravi’s alignment with Research (Applied — Lab) reflects the pharmaceutical program’s therapeutic objectives. His contribution centers on fundamental biological research that may inform future therapies.
+Ravi studies fundamental mechanisms of pathogen growth, survival, and host interactions within a pharmaceutical discovery program. His alignment with Research (Applied — Lab) reflects the program’s therapeutic objectives. His investigations build biological understanding that may inform future therapies.
 
 
-
-#### Maulana A. Karim - Applied Research Scientist (Clinical testing service provider)
+<h4 id="maulana-a-karim---applied-research-scientist-clinical-testing-service-provider">Maulana A. Karim — Applied Research Scientist (Clinical testing service provider)</h4>
 
 <div class="cure-portrait">
   <img src="img/maulana.png" alt="Maulana" style="max-width:150px;">
 </div>
 
-**Qualification and background**
+**Qualifications and background**
 
--	BSc in data analysis and genomics
--	PhD in data sciences and genomics
--	Undergraduate research project in data analysis
+- BSc in data analysis and genomics
+- PhD in data science and genomics
+- Undergraduate research project in data analysis
 
-**Activities of current role**
+**Current responsibilities**
 
 - Developing bioinformatics workflows for pathogen sequence data generated in-house and obtained from public repositories
 - Standardizing sample records so datasets from different laboratories can be combined and compared
@@ -602,9 +589,9 @@ Ravi studies fundamental mechanisms of pathogen growth, survival, and interactio
 
 Maulana works in the research and development team of a clinical testing service provider. He collaborates with laboratory scientists to develop and evaluate computational methods for detecting and characterizing infectious agents and supports their introduction into routine testing.
 
-## CURE modules Working Group
+<h2 id="cure-modules-working-group">CURE Module Working Group</h2>
 
-The CURE Module Working Group developed six curriculum outlines aligned with the Pathogen Data Network’s workforce competencies. Using wastewater surveillance as a shared research context, the modules guide instructors from introducing surveillance and designing an investigation through water sampling and preparation, bioinformatics, data interpretation, and scientific communication. Each module connects core and supplementary learning outcomes to relevant competencies and suggests activities and ways for students to demonstrate their learning. Instructors can use the outlines to design or refine a course-based undergraduate research experience that fits their students, research questions, and available resources. An accompanying glossary and resources provide stepping stones for instructors to adapt the content as they design or modify their CURE.
+The CURE Module Working Group developed six curriculum outlines aligned with the Pathogen Data Network’s workforce competencies. Using wastewater surveillance as a shared research context, the modules guide instructors from introducing surveillance and designing an investigation through water sampling and preparation, bioinformatics, data interpretation, and scientific communication. Each module connects core and supplementary learning outcomes to relevant competencies and suggests activities and ways for students to demonstrate their learning. Instructors can use the outlines to design or refine a course-based undergraduate research experience that fits their students, research questions, and available resources. The accompanying glossary defines technical terms, and the resource list links to field and laboratory protocols and publication resources.
 
 ### Introduction and Overview — Designing a Wastewater Surveillance CURE: Module Outlines for Undergraduate Educators
 
@@ -788,24 +775,24 @@ The CURE Module Working Group developed six curriculum outlines aligned with the
 
 ### Authors, Affiliations, and Reuse
 
-During the comment period, this material is open but not officially licensed for reuse. For questions or to collaborate please contact [Jason Williams](mailto:williams@cshl.edu).
+These draft materials are publicly available for review. A reuse license has not yet been assigned. For questions or collaboration, contact [Jason Williams](mailto:williams@cshl.edu).
 
 - Anna Maria Niewiadomska, Oxford Nanopore Technologies
-- Athina	Gavriilidou, University of Lausanne
-- Martha Carolina, Mehaffy	Colorado State University
-- Carlos	Goller, North Carolina State University
-- Joseph	Larkin, University of Florida
-- Jamal	Sheriff, University of Illinois Chicago, and Bacterial and Viral Bioinformatic Resource Center
-- Liã Bárbara	Arruda, Wellcome Sanger Institute
-- Lakshmanan	Iyer, LabCorp
-- Michaela	Gazdik Stofer,	North Carolina State University
-- Julien Alban	Nguinkal,	Bernhard Nocht Institute for Tropical Medicine
+- Athina Gavriilidou, University of Lausanne
+- Martha Carolina Mehaffy, Colorado State University
+- Carlos Goller, North Carolina State University
+- Joseph Larkin, University of Florida
+- Jamal Sheriff, University of Illinois Chicago and Bacterial and Viral Bioinformatics Resource Center
+- Liã Bárbara Arruda, Wellcome Sanger Institute
+- Lakshmanan Iyer, LabCorp
+- Michaela Gazdik Stofer, North Carolina State University
+- Julien Alban Nguinkal, Bernhard Nocht Institute for Tropical Medicine
 - Zach Popkin-Hall, Western Connecticut State University
-- Sarah	Buddenborg, McGill University
-- Valerie	Carson, Hillsborough College
-- Ana 	Feitzinger, Cold Spring Harbor Laboratory and Pathogen Data Network
-- Jason	Williams, Cold Spring Harbor Laboratory and Pathogen Data Network
+- Sarah Buddenborg, McGill University
+- Valerie Carson, Hillsborough College
+- Anna Feitzinger, Cold Spring Harbor Laboratory and Pathogen Data Network
+- Jason Williams, Cold Spring Harbor Laboratory and Pathogen Data Network
 
-**Funding Acknowledgement**
+**Funding Acknowledgment**
 
-This project is supported by the National Institute Of Allergy And Infectious Diseases of the National Institutes of Health under Award Number U24AI183840. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
+This project is supported by the National Institute of Allergy and Infectious Diseases of the National Institutes of Health under Award Number U24AI183840. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
