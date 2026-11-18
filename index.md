@@ -273,19 +273,18 @@ a.cure-survey-link:hover {
     <p><strong>Career personas</strong></p>
     <ul>
       <li><a href="#career-track-personas">Career Track Personas</a></li>
-      <li><a href="#healthcare-track-public-health-professional--clinical-scientist">Healthcare Track</a></li>
-      <li><a href="#research-track-basic-research-scientist--applied-research-scientist">Research Track</a></li>
-      <li><a href="#industry-track-pathogen-data-scientist">Industry Track</a></li>
+      <li><a href="#healthcare-track-public-health-professional--physician">Healthcare Track</a></li>
+      <li><a href="#research-track-academia-and-industry">Research Track</a></li>
     </ul>
     <details>
       <summary>Individual personas</summary>
       <ul>
         <li><a href="#florence-n-smith---public-health-professional">Florence N. Smith</a></li>
-        <li><a href="#paul-e-johnson---clinical-scientist">Paul E. Johnson</a></li>
-        <li><a href="#gregor-m-williams---basic-research-scientist">Gregor M. Williams</a></li>
-        <li><a href="#rosalind-f-brown---applied-research-scientist">Rosalind F. Brown</a></li>
-        <li><a href="#ravi--k-sambasivan---basic-research-scientist">Ravi K. Sambasivan</a></li>
-        <li><a href="#maulana-a-karim---applied-research-scientist">Maulana A. Karim</a></li>
+        <li><a href="#paul-e-johnson--infectious-disease-physicianscientist">Paul E. Johnson</a></li>
+        <li><a href="#gregor-m-williams---basic-research-scientist-academic-lab">Gregor M. Williams</a></li>
+        <li><a href="#rosalind-f-brown---bioinformatician-academic-genomics-core-facility">Rosalind F. Brown</a></li>
+        <li><a href="#ravi-k-sambasivan---basic-research-scientist-pharmaceutical-research-campus">Ravi K. Sambasivan</a></li>
+        <li><a href="#maulana-a-karim---applied-research-scientist-clinical-testing-service-provider">Maulana A. Karim</a></li>
       </ul>
     </details>
   </div>
@@ -419,12 +418,12 @@ This chart has the following features:
 
 ## Career track personas
 
-The group also discussed the importance of developing personas that reflect common career pathways, such as laboratory technicians, bioinformatics analysts, public health staff, clinical laboratory personnel, undergraduate researchers, and biotechnology employees. These personas will help ensure that competencies are relevant to real-world workforce roles.
+These personas illustrate possible combinations of education, experience, and professional responsibilities. People in similar roles may follow different training routes or work across more than one trajectory.
 
 
 ### Healthcare Track (Public Health Professional / Physician)
 
-This track is designed for students interested in applying pathogen genomics in healthcare and public health settings. It brings together perspectives from public health and clinical science, focusing on how genomic data can inform disease surveillance, diagnostics, and patient care. It focuses on exploring how pathogen data moves from laboratory generation to real-world decision-making, developing skills to interpret and communicate findings in ways that support outbreak response, healthcare systems, and community health outcomes.
+This track is designed for students interested in applying pathogen genomics in healthcare and public health settings. It brings together perspectives from public health and clinical care, focusing on how genomic data can inform disease surveillance, diagnostics, and patient care. It focuses on exploring how pathogen data moves from laboratory generation to real-world decision-making, developing skills to interpret and communicate findings in ways that support outbreak response, healthcare systems, and community health outcomes.
 
 Examples of professionals related to this track: policy-makers, epidemiologists, data modeling analysts, physicians, nurses, allied health professionals, clinical scientists, laboratory scientists, among others.
 
@@ -440,12 +439,12 @@ Examples of professionals related to this track: policy-makers, epidemiologists,
 - MSc in Global Health
 - Field internship at the Ministry of Health
 
-Florence's academic path began with an interest in community health and disease prevention. During her undergraduate studies, she developed skills in epidemiology and biostatistics, alongside a growing awareness of infectious disease dynamics. Exposure to outbreak investigations and surveillance programs sparked an interest in integrating genomic data into public health decision-making. Her training increasingly combined traditional epidemiology with data analysis and interpretation of pathogen genomics.
+Florence's academic path began with an interest in community health and disease prevention. Through her nursing education, postgraduate training, and professional experience, she developed skills in epidemiology and biostatistics, alongside a growing awareness of infectious disease dynamics. Exposure to outbreak investigations and surveillance programs sparked an interest in integrating genomic data into public health decision-making. Her training increasingly combined traditional epidemiology with data analysis and interpretation of pathogen genomics.
 
 **Activities of current role**
 
 - Monitoring infectious disease trends through surveillance systems
-- Analysing epidemiological and genomic datasets
+- Analyzing epidemiological data and interpreting genomic surveillance findings with laboratory and bioinformatics colleagues
 - Supporting outbreak investigation and response activities
 - Preparing reports and data summaries for public health stakeholders
 - Collaborating with laboratories and research institutions
@@ -464,7 +463,7 @@ Florence’s work within the Ministry of Health supports the integration of path
 
 - MD, with initial training and practice as a general practitioner
 - PhD in immunology
-- Mid-career transition into an infectious disease specialty
+- Additional specialist training and practice in infectious diseases following a period in general practice
 - Continuing professional development in genomics and its applications to diagnosis and treatment
 
 Paul completed his medical and doctoral training before genomics became widely used in clinical practice. He began his career as a general practitioner and developed an interest in infectious disease through patient care and immunology research. A mid-career transition into an infectious disease specialty brought these interests together. Paul has developed a basic understanding of genomics and continues to expand his knowledge through self-directed learning and collaboration with specialists. He increasingly uses genomic information to inform clinical decisions and supervises research students developing new approaches, including artificial intelligence and machine learning methods.
@@ -476,11 +475,11 @@ Paul is a senior physician–scientist who devotes approximately 80% of his time
 - Providing bedside care for patients with infectious diseases, including diagnosis, treatment, and follow-up.
 - Using genomic findings alongside clinical observations and other laboratory results to inform diagnosis and treatment.
 - Collaborating with laboratory and computational specialists to interpret genomic evidence and understand its limitations.
-- Supervising research that connects immunology and infectious disease with questions arising from clinical practice.
-- Mentoring research students, including those developing AI and machine learning methods to improve diagnosis and treatment.
+- Co-supervising research that connects immunology and infectious disease with questions arising from clinical practice.
+- Contributing clinical and immunological expertise to student projects co-supervised with genomics and AI/ML specialists.
 - Updating his knowledge of genomics and emerging analytical methods to support patient care and research supervision.
 
-### Research Track (Basic and Applied Research Scientists in Academia and Industry)
+### Research Track (Academia and Industry)
 
 This track is aimed at students interested in advancing pathogen genomics through research and innovation. It combines foundational biological inquiry with practical, data-driven approaches, spanning both basic and applied science. It focuses on engaging with questions about pathogen biology, evolution, and function, while also developing computational and analytical skills to work with genomic data. The track encourages students to explore how research discoveries can be translated into tools, methods, and knowledge that strengthen our understanding and management of infectious diseases.
 
@@ -500,7 +499,7 @@ Examples of professionals related to this track: Genomics and pathogen data scie
 -	PhD in Microbial Genetics
 -	Undergraduate research project in pathogen drug resistance
 
-Gregor’s academic journey was driven by curiosity about how pathogens function and evolve. During undergraduate training, he gained experience in laboratory experimentation and theoretical concepts such as gene regulation, mutation, and host–pathogen interactions. Research projects deepen his interest in understanding mechanisms at the molecular level, often leading to further research training.
+Gregor’s academic journey was driven by curiosity about how pathogens function and evolve. During undergraduate training, he gained experience in laboratory experimentation and theoretical concepts such as gene regulation, mutation, and host–pathogen interactions. An undergraduate research project on pathogen drug resistance led him to pursue a PhD in microbial genetics. He now investigates how genetic variation affects pathogen biology.
 
 **Activities of current role**
 
@@ -528,17 +527,19 @@ Rosalind’s background is interdisciplinary, combining an interest in biology w
 
 **Activities of current role**
 
+- Consulting with research groups on study design, data quality, and appropriate analysis methods
 -	Developing and running bioinformatics pipelines
 -	Performing genome assembly, annotation, and quality control
 -	Managing datasets using FAIR principles
 -	Creating reproducible workflows and documentation
 -	Collaborating with laboratory and public health teams
 -	Supporting tool development and data integration
+- Explaining analysis results and limitations, and helping researchers use documented workflows
 
-Rosalind works at the interface of biology and data science, translating complex genomic data into usable outputs. Her role is central to making pathogen genomics scalable, reproducible, and accessible across different research and public health contexts.
+Rosalind supports multiple research groups through a shared genomics core facility. She helps teams plan analyses, interpret findings, and produce reproducible data and methods.
 
 
-#### Ravi  K. Sambasivan - Basic Research Scientist (Pharmaceutical research campus)
+#### Ravi K. Sambasivan - Basic Research Scientist (Pharmaceutical research campus)
 
 <div class="cure-portrait">
   <img src="img/ravi.png" alt="Ravi" style="max-width:150px;">
@@ -555,11 +556,11 @@ Rosalind works at the interface of biology and data science, translating complex
 - Designing and conducting experiments to study fundamental biological mechanisms
 - Analyzing experimental and genomic data to test hypotheses and guide follow-up studies
 - Collaborating with microbiologists, geneticists, and computational scientists to interpret findings and develop new research questions
-- Writing grant proposals to support new and ongoing research
+- Developing research proposals and contributing to project reviews that guide internal funding, external collaborations, and grant applications where relevant
 - Preparing manuscripts for peer-reviewed journals and presenting findings at scientific meetings
-- Mentoring students who join the research team in experimental design, data interpretation, and scientific writing
+- Mentoring research staff, interns, and collaborating students in experimental design, data interpretation, and scientific writing
 
-Ravi was inspired by the bugs around him and the role that they play in human health and diseases. His academic journey was in basic sciences with exposure to the role of viruses, bacteria and other pathogens with their role in human life. His experience in the undergrad research project on data analysis and subsequent PhD in microbial genetics prepared to delve into the basic science of pathogens and their role in disease outbreak detection, surveillance and how it can lead to diagnostic and clinical interventions.
+Ravi studies fundamental mechanisms of pathogen growth, survival, and interactions with hosts within a pharmaceutical research program. His background in microbial genetics and data analysis supports experiments that explain pathogen function and may inform future therapeutic research.
 
 
 #### Maulana A. Karim - Applied Research Scientist (Clinical testing service provider)
@@ -575,13 +576,15 @@ Ravi was inspired by the bugs around him and the role that they play in human he
 -	Undergraduate research project in data analysis
 
 **Activities of current role**
+
 - Developing bioinformatics workflows for pathogen sequence data generated in-house and obtained from public repositories
 - Standardizing sample records so datasets from different laboratories can be combined and compared
-- Testing analysis methods on reference datasets to compare accuracy, consistency, and processing time
+- Evaluating analysis methods against reference samples and datasets, documenting their accuracy, reproducibility, and limitations for the intended clinical testing application
 - Investigating discrepancies between computational results and laboratory findings with colleagues at the bench
 - Documenting workflows and reporting their performance to teams developing surveillance and diagnostic tools
+- Collaborating with laboratory quality and software teams to introduce and maintain analysis workflows for clinical testing
 
-Maulana witnessed how COVID19 was tackled world-wide with the public and private healthcare sector come together to develop rapid diagnostic tests and surveillance of SARS-CoV-2 virus, the causative agent of the pandemic.  His basic training in data sciences and genomics with inroads to bacterial and viral sequence and data analysis led him to a role in industry. In industry he works with a team of wet and dry lab scientists to help develop novel methods of analyzing the huge of amount of pathogen data produced in-house and in public repositories.
+Maulana works in the research and development team of a clinical testing service provider. He collaborates with laboratory scientists to develop and evaluate computational methods for detecting and characterizing infectious agents and supports their introduction into routine testing.
 
 ## CURE modules Working Group
 
