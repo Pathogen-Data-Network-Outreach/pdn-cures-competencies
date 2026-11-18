@@ -420,6 +420,19 @@ This chart has the following features:
 
 These personas illustrate possible combinations of education, experience, and professional responsibilities. People in similar roles may follow different training routes or work across more than one trajectory.
 
+The career persona alignment labels identify roles that warrant a high level of proficiency or emphasis in each competency. Within this framework, **Research (Basic)** includes academic research and bioinformatics support in academic core facilities. **Research (Applied)** covers pharmaceutical research and clinical testing development, including fundamental research conducted within pharmaceutical discovery programs. The research labels reflect each persona’s primary professional context and the purpose of their programme. Basic and applied research can occur across academic, public-sector, and commercial settings.
+
+| Alignment label | Associated persona | Primary work context |
+|---|---|---|
+| **Healthcare (Public)** | Florence N. Smith | Public health surveillance, outbreak investigation, and interpretation of population-level evidence |
+| **Healthcare (Clinical)** | Paul E. Johnson | Patient care informed by genomic evidence, alongside research co-supervision |
+| **Research (Basic — Lab)** | Gregor M. Williams | Laboratory research into fundamental pathogen biology in an academic setting |
+| **Research (Basic — Computational)** | Rosalind F. Brown | Bioinformatics analysis, consultation, and researcher support in an academic genomics core facility |
+| **Research (Applied — Lab)** | Ravi K. Sambasivan | Fundamental laboratory research within a pharmaceutical discovery program |
+| **Research (Applied — Computational)** | Maulana A. Karim | Development and evaluation of computational methods at a clinical testing service provider |
+
+The optional **Lab** and **Computational** modifiers indicate where particular emphasis falls. Use **Lab/Computational**, or omit the modifier, when both modes of work warrant emphasis. Competencies may also be relevant to personas beyond those listed.
+
 
 ### Healthcare Track (Public Health Professional / Physician)
 
@@ -483,6 +496,8 @@ Paul is a senior physician–scientist who devotes approximately 80% of his time
 
 This track is aimed at students interested in advancing pathogen genomics through research and innovation. It combines foundational biological inquiry with practical, data-driven approaches, spanning both basic and applied science. It focuses on engaging with questions about pathogen biology, evolution, and function, while also developing computational and analytical skills to work with genomic data. The track encourages students to explore how research discoveries can be translated into tools, methods, and knowledge that strengthen our understanding and management of infectious diseases.
 
+Research roles span academic laboratories, genomics core facilities, pharmaceutical discovery programs, and clinical testing services. Researchers investigate fundamental biological mechanisms, develop analytical methods, and generate evidence that may support new diagnostics and therapies. The balance between discovery and application varies across projects and roles.
+
 Pathogen genomics in industry settings brings together perspectives from public health and clinical science, focusing on how genomics and real world data can inform disease surveillance, diagnostics, and patient care. It focuses on exploring how pathogen data in industrial settings leads to real-world decision-making, developing skills to interpret and communicate findings in ways that support diagnostic test development, outbreak response, healthcare systems, and community health outcomes.
 
 Examples of professionals related to this track: Genomics and pathogen data scientists with varied backgrounds actively involved in analyzing real world data for pathogen surveillance, develop diagnostic tools to detect novel pathogens and outbreaks.
@@ -536,7 +551,7 @@ Rosalind’s background is interdisciplinary, combining an interest in biology w
 -	Supporting tool development and data integration
 - Explaining analysis results and limitations, and helping researchers use documented workflows
 
-Rosalind supports multiple research groups through a shared genomics core facility. She helps teams plan analyses, interpret findings, and produce reproducible data and methods.
+Rosalind supports research groups investigating fundamental questions in pathogen biology through a shared academic genomics core facility. She helps teams plan analyses, interpret findings, and produce reproducible data and methods.
 
 
 #### Ravi K. Sambasivan - Basic Research Scientist (Pharmaceutical research campus)
@@ -560,7 +575,8 @@ Rosalind supports multiple research groups through a shared genomics core facili
 - Preparing manuscripts for peer-reviewed journals and presenting findings at scientific meetings
 - Mentoring research staff, interns, and collaborating students in experimental design, data interpretation, and scientific writing
 
-Ravi studies fundamental mechanisms of pathogen growth, survival, and interactions with hosts within a pharmaceutical research program. His background in microbial genetics and data analysis supports experiments that explain pathogen function and may inform future therapeutic research.
+Ravi studies fundamental mechanisms of pathogen growth, survival, and interactions with hosts within a pharmaceutical research program. His background in microbial genetics and data analysis supports experiments that explain pathogen function and may inform future therapeutic research. Ravi’s alignment with Research (Applied — Lab) reflects the pharmaceutical program’s therapeutic objectives. His contribution centers on fundamental biological research that may inform future therapies.
+
 
 
 #### Maulana A. Karim - Applied Research Scientist (Clinical testing service provider)
