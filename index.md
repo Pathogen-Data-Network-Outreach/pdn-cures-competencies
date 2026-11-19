@@ -416,12 +416,12 @@ The career persona alignment labels identify roles that warrant a high level of 
 
 | Alignment label | Associated persona | Primary work context |
 |---|---|---|
-| **Healthcare (Public)** | Florence N. Smith | Public health surveillance, outbreak investigation, and interpretation of population-level evidence |
-| **Healthcare (Clinical)** | Paul E. Johnson | Patient care informed by genomic evidence, alongside research co-supervision |
-| **Research (Basic — Lab)** | Gregor M. Williams | Laboratory research into fundamental pathogen biology in an academic setting |
-| **Research (Basic — Computational)** | Rosalind F. Brown | Bioinformatics analysis, consultation, and researcher support in an academic genomics core facility |
-| **Research (Applied — Lab)** | Ravi K. Sambasivan | Fundamental laboratory research within a pharmaceutical discovery program |
-| **Research (Applied — Computational)** | Maulana A. Karim | Development and evaluation of computational methods at a clinical testing service provider |
+| **Healthcare (Public)** | Florence N. Smith | Public health surveillance, outbreak investigation, and interpretation of population-level evidence. |
+| **Healthcare (Clinical)** | Paul E. Johnson | Patient care informed by genomic evidence in hospital and clinic settings. |
+| **Research (Basic — Lab)** | Gregor M. Williams | Laboratory research into fundamental pathogen biology in academic settings.|
+| **Research (Basic — Computational)** | Rosalind F. Brown | Bioinformatics analysis, consultation, and researcher support in academic settings. |
+| **Research (Applied — Lab)** | Ravi K. Sambasivan | Fundamental laboratory research within industry settings. |
+| **Research (Applied — Computational)** | Maulana A. Karim | Development and evaluation of computational methods within industry settings. |
 
 The optional **Lab** and **Computational** modifiers indicate where particular emphasis falls. Use **Lab/Computational**, or omit the modifier, when both modes of work warrant emphasis. Competencies may also be relevant to personas beyond those listed.
 
